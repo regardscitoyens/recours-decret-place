@@ -4,11 +4,11 @@
 
 ## Pour
 
-L'association Regards Citoyens, association régie par la loi du 1er juillet 1901 et déclarée le 9 juin 2010 à la préfecture du Rhône (déclaration publiée au Journal Officiel de la République française n°20100026 du 26 juin 2010), dont le siège social est chez Julien Rabier, Bâtiment A2, 17 rue Corneille à Toulouse. Prise par son conseil d'administration en exercice habilité par une délibération de l'assemblée générale en date du 28 septembre 2016 (production n° 2) prise en application des statuts (production n° 1).
+L'association Regards Citoyens, association régie par la loi du 1er juillet 1901 et déclarée le 9 juin 2010 à la préfecture du Rhône (déclaration publiée au Journal Officiel de la République française n°20100026 du 26 juin 2010), dont le siège social est chez Julien Rabier, Bâtiment A2, 17 rue Corneille à Toulouse. Prise par son conseil d'administration en exercice habilité par une délibération de l'assemblée générale en date du 28 septembre 2016 (production n° 1) prise en application des statuts (production n° 2).
 
 ## Contre
 
-Le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°5)
+Le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°3)
 
 **En tant que de besoin contre** le Premier Ministre, Hôtel de Matignon, 64 rue de Varenne 75007 PARIS
 
@@ -23,7 +23,7 @@ Dans un mémoire complémentaire qui sera ultérieurement produit, l'association
 
 \newpage
 
-# Faits
+# I. Faits
 
 Le 27 juin 2013 a été publié au Journal Officiel de l'Union européenne la directive 2013/37/UE modifiant la directive 2003/98/CE concernant la réutilisation des informations du secteur public (JOUE L175 du 27 juin 2013, page 1).
 
@@ -35,26 +35,42 @@ L'article L 324-4 de ce code dispose que :
 
 Le Premier ministre a pris les mesures d'application de ces dispositions en adoptant le décret n° 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public, publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016.
 
-C'est le décret dont l'annulation est sollicitée.
-
-
-
+**C'est le décret dont l'annulation est sollicitée.**
 
 \newpage
 
-# DISCUSSION - Légalité externe
+# II. Intérêt à agir
+
+L'association Regards Citoyens est recevable à solliciter l’annulation des dispositions contestées du décret attaqué en ce qu’il prévoit des mesures d’application des dispositions de l'article 5 de la loi 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiée à l'article L. 324-4 du code des relations entre le public et l'administration.
+
+Ces mesures d'application affectent directement les modalités de libre accès et de réutilisation par les citoyens des informations du secteur public. C'est donc en parfaite conformité avec ses missions statutaires (production n°2) que l'association introduit ce recours :
+
+> « Cette association a pour objet de renforcer l’éducation et l’engagement civique en promouvant par la pratique le libre accès aux données publiques et leur réutilisation, notamment pour des usages citoyens ou de valorisation des institutions. L'association entend notamment réaliser les objectifs suivants :
+> 
+> […]
+> 
+> - promouvoir les usages et les pratiques liées à l'utilisation et la réutilisation de données publiques ;
+> - promouvoir les licences libres et les formats ouverts pour les données publiques ;
+> 
+> […]
+> 
+> - mener toute action en justice ou plaidoyer qui faciliteraient la réalisation de son objet »
+
+\newpage
+
+# III. Discussion - Légalité externe
 
 À titre liminaire, il doit d’ores et déjà être précisé que l'association requérante formera une question prioritaire de constitutionnalité dans un mémoire séparé qui sera communiqué ultérieurement.
 
 Le décret attaqué est entaché d'incompétence. Il a été adopté au terme d'une procédure irrégulière, résultant de causes multiples.
 
-## Accès à la version soumise au Conseil d'État
+## A. Accès à la version soumise au Conseil d'État
 
 En premier lieu, et sur la légalité externe, le décret attaqué est entaché d’incompétence et a été adopté au terme d’une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la Section de l’Intérieur du Conseil d’Etat.
 
-De ce chef déjà, l’annulation du décret litigieux est acquise.
+**De ce chef déjà, l’annulation du décret litigieux est acquise.**
 
-## Respect des règles de fonctionnement des organismes consultés
+## B. Respect des règles de fonctionnement des organismes consultés
 
 En second lieu, le décret a été adopté au terme d'une procédure irrégulière, dès lors que la sous-section du Conseil d'orientation de l'édition publique et de l'information administrative (COEPIA) n'a pas un fonctionnement conforme aux règles le régissant.
 
@@ -74,19 +90,17 @@ De plus, dans sa décision n° 361962 (Section du contentieux du 22 juillet 2015
 
 Or, en l'absence de publicité tant du lieu que des personnes présentes lors de la délibération, il ne saurait être établi que l'avis respecte les règles édictées par le Conseil d'État.
 
-De ce chef déjà, l'annulation est acquise.
+**De ce chef déjà, l'annulation est acquise.**
 
 En second lieu, les dispositions du décret contesté sont illégales en l’absence de toute base juridique qui en permette l’édiction, compte tenu de l’inconventionnalité des dispositions législatives que les dispositions règlementaires mettent en œuvre.
 
-
-
 \newpage
 
-# DISCUSSION - Légalité interne
+# IV. Discussion - Légalité interne
 
 Le décret attaqué doit au surplus être annulé en ce qu'il est contraire au droit de l'Union européenne, à la loi ainsi qu'à la Constitution.
 
-## Moyens tirés de la non-conformité du code des relations entre le public et l'administration aux dispositions de la Constitution
+## A. Moyens tirés de la non-conformité du code des relations entre le public et l'administration aux dispositions de la Constitution
 
 D'emblée, il convient de rappeler que le décret n° 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public a notamment été pris pour l'application du chapitre IV du titre II du livre III du code des relations entre le public et l'administration et notamment des articles L324-1, L324-2, L324-4 et L324-5 de ce code.
 
@@ -114,11 +128,11 @@ Les articles L324-1, L324-2, L324-4 et L324-5 ont été introduits dans le code 
 
 Si, dans le rapport qu'il a remis au Premier Ministre le 5 novembre de 2013, Monsieur Mohammed Adnène TROJETTE, magistrat de la Cour des comptes, s'est interrogé sur la constitutionnalité des redevances pour données publiques, cette question n'a pas fait l'objet d'une étude d'impact de la part du Gouvernement et n'a, en tout état de cause, pas été soumise au Conseil constitutionnel.
 
-De ces chefs, la question prioritaire de constitutionnalité présente un caractère sérieux et nouveau et ne pourra donc qu’être transmise au Conseil constitutionnel.
+**De ces chefs, la question prioritaire de constitutionnalité présente un caractère sérieux et nouveau et ne pourra donc qu’être transmise au Conseil constitutionnel.**
 
 Mais il y a plus.
 
-## Non-respect des dispositions du droit de l'Union européenne
+## B. Non-respect des dispositions du droit de l'Union européenne
 
 Dans son article 6, la directive 2003/98/CE du Parlement européen et du Conseil du 17 novembre 2003 telle que modifiée par la directive 2013/37/UE du 27 juin 2013 prévoit que :
 
@@ -134,9 +148,16 @@ Le décret attaqué prévoit en son article 1er que :
 
 Le décret définit donc la « part substantielle » des « coûts liés à l’accomplissement de leurs missions de service public »  ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recette générées.
 
-Or, ce 
+Le décret attaqué établit ainsi un seuil arbitraire applicable à toutes les administrations.
 
-## Non-respect des dispositions de la loi organique relative aux lois de finances
+Dans son arrêt du 30 juin 1999 (décision n° 198147), le Conseil d'État a retenu le seuil minimal de 30% comme « part substantielle » des recettes autres que celles correspondant au prix payé par la personne publique dans le cadre d'une délégation de service publique attribuée à un acteur privé.
+
+Le décret attaqué régit les rémunérations des missions de service public menées par des organismes publics et non d'une délégation de service public par un acteur privé. 
+Ainsi, le seuil retenu pour un organisme du secteur public ne saurait donc être inférieur à celui appliqué à un acteur privé.
+
+**De ce chef, l'annulation du décret est acquise.**
+
+## C. Non-respect des dispositions de la loi organique relative aux lois de finances
 
 Dans ses décisions du 16 novembre 1977 (décision n° 77-100 L) et 23 juin 1982 (décision n° 82-124 L), le Conseil constitutionnel a défini qu'une administration centrale ou un établissement public à caractère administratif ne pouvait établir de redevances que pour service rendu.
 
@@ -144,43 +165,51 @@ Or le décret attaqué prévoit en son premier article que :
 
 > « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L324-1 les services de l'État et les autres personnes mentionnées à l'article L300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions ».
 
-Le décret concerne des administrations publiques dont la mission ou, à tout le moins, l'une des missions, consiste en la mise à disposition ou la diffusions d'information publiques. Ce faisant, il autorise la création (ou le maintien en vigueur) de ressources budgétaires perçues en contrepartie de l'exercice d'une mission de service public, c'est-à-dire en contrepartie d'une charge courante du service public, en contradiction avec les dispositions législatives organiques, mais aussi de l'interprétation qu'en donne le Conseil constitutionnel.
+Le décret concerne des administrations publiques dont la mission ou, à tout le moins, l'une des missions, consiste en la mise à disposition ou la diffusion d'information publiques. Ce faisant, il autorise la création (ou le maintien en vigueur) de ressources budgétaires perçues en contrepartie de l'exercice d'une mission de service public, c'est-à-dire en contrepartie d'une charge courante du service public, en contradiction avec les dispositions législatives organiques, mais aussi de l'interprétation qu'en donne le Conseil constitutionnel.
 
 En effet, la jurisprudence constitutionnelle encadre fortement la procédure des fonds de concours. La décision n° 94-351 DC rappelle que les principes d’unité et d’universalité budgétaires « font obstacle à ce que des dépenses qui […] présentent […] par nature un caractère permanent ne soient pas prises en charge par le budget ou soient financées par des ressources que celui-ci ne détermine pas ». Cela s’applique aussi « aux budgets annexes, dont les dépenses d’exploitation suivent les mêmes règles que les dépenses ordinaires du budget »  (Cons. const, 29 décembre 1994, décision n° 94-351 DC).
 
 Le législateur organique a fait sienne cette interprétation de la Constitution. La loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances dispose, en son article 3, que :
 
-> « Les ressources budgétaires de l'Etat comprennent : […] 2° […] les rémunérations des services rendus par lui ».
+> « Les ressources budgétaires de l'État comprennent : […] 2° […] les rémunérations des services rendus par lui ».
 
-Il s'attribue la compétence d'apprécier ultimement la conformité de telles ressources édictées par le pouvoir régulementaire.  L'article 4 de la même loi organique précise en effet que :
+Il s'attribue la compétence d'apprécier ultimement la conformité de telles ressources édictées par le pouvoir réglementaire. L'article 4 de la même loi organique précise en effet que :
 
-> « La rémunération de services rendus par l'Etat peut être établie et perçue sur la base de décrets en Conseil d'Etat pris sur le rapport du ministre chargé des finances et du ministre intéressé. Ces décrets deviennent caducs en l'absence d'une ratification dans la plus prochaine loi de finances afférente à l'année concernée ».
+> « La rémunération de services rendus par l'État peut être établie et perçue sur la base de décrets en Conseil d'État pris sur le rapport du ministre chargé des finances et du ministre intéressé. Ces décrets deviennent caducs en l'absence d'une ratification dans la plus prochaine loi de finances afférente à l'année concernée ».
 
-En tout état de cause, les redevances concernées, lorsqu'elles existent déjà, n'ont pas toutes été établies par décret en Conseil d'État et, lorsqu'elles l'ont été, toutes n'ont pas été ratifiées en plus prochaine loi de finances.
+En tout état de cause, les redevances concernées, lorsqu'elles existent déjà, n'ont pas toutes été établies par décret en Conseil d'État et, lorsqu'elles l'ont été, toutes n'ont pas été ratifiées dans la plus prochaine loi de finances.
 
-En permettant à des administrations ayant pour mission de service public la mise à disposition ou la diffusion d'informations publiques d'établir des redevances pour ces même missions, le gouvernement a méconnu l'article 3 la loi organique relative aux lois de finances.
+En permettant à des administrations ayant pour mission de service public la mise à disposition ou la diffusion d'informations publiques d'établir des redevances pour ces même missions, le gouvernement a méconnu les articles 3 et 4 de la loi organique relative aux lois de finances.
 
-De ce chef, l'annulation est acquise.
-
+**De ce chef également, l'annulation du décret litigieux est acquise.**
 
 \newpage
 
 **PAR CES MOTIFS**, et tous autres à produire, déduire, suppléer, au besoin même d'office, l'exposante conclut à ce qu'il plaise au Conseil d'État :
 
-1. **TRANSMETTRE AU CONSEIL CONSTITUTIONNEL** une question prioritaire de constitutionnalité permettant de déterminer la conformité à la Constitution des dispositions de l'article ... de la loi n° ... du ... relative à ..., codifiées aux articles XXX du code des relations entre le public et l'administration ;
+1. **TRANSMETTRE AU CONSEIL CONSTITUTIONNEL** une question prioritaire de constitutionnalité permettant de déterminer la conformité à la Constitution des dispositions des articles L324-1, L324-2, L324-4 et L324-5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV du titre II du livre III du code des relations entre le public et l'administration ;
 
 2. **ANNULER** le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°3) ;
 
-3. **METTRE À LA CHARGE** de l'État la somme de XXX euros sur le fondement de l'article L761-1 du Code de justice administrative ;
+3. **METTRE À LA CHARGE** de l'État la somme de 2048 euros sur le fondement de l'article L761-1 du code de justice administrative ;
 
 Avec toutes conséquences de droit.
 
+Le 28 septembre 2016, à Paris
+
+Pour l'association **Regards Citoyens,**
+
+Le Conseil d'Administration
+
+\newpage
+
+# Pièces produites
+
+1. Délibération de l'assemblée générale de l'association Regards Citoyens en date du 28 septembre 2016.
+2. Statuts de l'association Regards Citoyens.
+3. Décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016.
+4. La présente requête.
 
 
-## Productions
-
-1. Statuts de l'association Regards Citoyens
-2. Délibération de l'assemblée générale de l'association Regards Citoyens en date du 28 septembre 2016
-3. Décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016
 
 
