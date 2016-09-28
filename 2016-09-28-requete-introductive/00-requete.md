@@ -37,8 +37,6 @@ Le Premier ministre a pris les mesures d'application de ces dispositions en adop
 
 **C'est le décret dont l'annulation est sollicitée.**
 
-\newpage
-
 # II. Intérêt à agir
 
 L'association Regards Citoyens est recevable à solliciter l’annulation des dispositions contestées du décret attaqué en ce qu’il prévoit des mesures d’application des dispositions de l'article 5 de la loi 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiée à l'article L. 324-4 du code des relations entre le public et l'administration.
@@ -55,8 +53,6 @@ Ces mesures d'application affectent directement les modalités de libre accès e
 > […]
 > 
 > - mener toute action en justice ou plaidoyer qui faciliteraient la réalisation de son objet »
-
-\newpage
 
 # III. Discussion - Légalité externe
 
@@ -93,8 +89,6 @@ Or, en l'absence de publicité tant du lieu que des personnes présentes lors de
 **De ce chef déjà, l'annulation est acquise.**
 
 En second lieu, les dispositions du décret contesté sont illégales en l’absence de toute base juridique qui en permette l’édiction, compte tenu de l’inconventionnalité des dispositions législatives que les dispositions règlementaires mettent en œuvre.
-
-\newpage
 
 # IV. Discussion - Légalité interne
 
