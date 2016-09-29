@@ -8,7 +8,7 @@ L'association Regards Citoyens, association régie par la loi du 1er juillet 190
 
 ## Contre
 
-Le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°3).
+Le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n° 3).
 
 **En tant que de besoin contre** le Premier Ministre, Hôtel de Matignon, 64 rue de Varenne, 75007 PARIS.
 
@@ -43,7 +43,7 @@ Le Premier ministre a pris les mesures d'application de ces dispositions en adop
 
 L'association Regards Citoyens est recevable à solliciter l'annulation des dispositions contestées du décret attaqué en ce qu'il prévoit des mesures d'application des dispositions de l'article 5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiée à l'article L324-4 du code des relations entre le public et l'administration.
 
-Ces mesures d'application affectent directement les modalités de libre accès et de réutilisation par les citoyens des informations du secteur public. C'est donc en parfaite conformité avec ses missions statutaires (production n°2) que l'association introduit ce recours :
+Ces mesures d'application affectent directement les modalités de libre accès et de réutilisation par les citoyens des informations du secteur public. C'est donc en parfaite conformité avec ses missions statutaires (production n° 2) que l'association introduit ce recours :
 
 > « Cette association a pour objet de renforcer l'éducation et l'engagement civique en promouvant par la pratique le libre accès aux données publiques et leur réutilisation, notamment pour des usages citoyens ou de valorisation des institutions. L'association entend notamment réaliser les objectifs suivants :
 > 
@@ -188,7 +188,7 @@ En permettant à des administrations ayant pour mission de service public la mis
 
 1. **TRANSMETTRE AU CONSEIL CONSTITUTIONNEL** une question prioritaire de constitutionnalité permettant de déterminer la conformité à la Constitution des dispositions des articles L324-1, L324-2, L324-4 et L324-5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV du titre II du livre III du code des relations entre le public et l'administration ;
 
-2. **ANNULER** le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°3) ;
+2. **ANNULER** le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n° 3) ;
 
 3. **METTRE À LA CHARGE** de l'État la somme de 4096 euros sur le fondement de l'article L761-1 du code de justice administrative.
 
