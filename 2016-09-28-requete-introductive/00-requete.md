@@ -27,7 +27,7 @@ Dans un mémoire complémentaire qui sera ultérieurement produit, l'association
 
 Le 27 juin 2013 a été publié au Journal Officiel de l'Union européenne la directive 2013/37/UE modifiant la directive 2003/98/CE concernant la réutilisation des informations du secteur public (JOUE L175 du 27 juin 2013, page 1).
 
-Le Parlement a adopté la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public afin de transposer en droit interne les dispositions législatives de cette directive. L'ordonnance n° 2016-307 du 17 mars 2016 portant codification des dispositions relatives à la réutilisation des informations publiques dans le code des relations entre le public et l'administration a été publiée au Journal Officiel de la République française n° 0066 du 18 mars 2016.
+Le Parlement a adopté la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public afin de transposer en droit interne les dispositions législatives de cette directive. L'ordonnance n° 2016-307 du 17 mars 2016 portant codification des dispositions relatives à la réutilisation des informations publiques dans le Code des relations entre le public et l'administration a été publiée au Journal Officiel de la République française n° 0066 du 18 mars 2016.
 
 L'article L324-4 de ce code dispose que :
 
@@ -41,7 +41,7 @@ Le Premier ministre a pris les mesures d'application de ces dispositions en adop
 
 # II. Intérêt à agir
 
-L'association Regards Citoyens est recevable à solliciter l'annulation des dispositions contestées du décret attaqué en ce qu'il prévoit des mesures d'application des dispositions de l'article 5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiée à l'article L324-4 du code des relations entre le public et l'administration.
+L'association Regards Citoyens est recevable à solliciter l'annulation des dispositions contestées du décret attaqué en ce qu'il prévoit des mesures d'application des dispositions de l'article 5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiée au chapitre IV, du titre II, du livre III du Code des relations entre le public et l'administration.
 
 Ces mesures d'application affectent directement les modalités de libre accès et de réutilisation par les citoyens des informations du secteur public. C'est donc en parfaite conformité avec ses missions statutaires (production n°2) que l'association introduit ce recours :
 
@@ -74,13 +74,13 @@ En premier lieu, et sur la légalité externe, le décret attaqué est entaché 
 
 En deuxième lieu, le décret a été adopté au terme d'une procédure irrégulière, dès lors que le Conseil d'orientation de l'édition publique et de l'information administrative (COEPIA) n'a pas un fonctionnement conforme aux règles le régissant.
 
-En effet, selon les disposition des articles L324-4 et R324-7 du code des relations entre le public et l'administration (CRPA), le décret attaqué doit être soumis pour avis au COEPIA.
+En effet, selon les disposition des articles L324-4 et R324-7 du Code des relations entre le public et l'administration (CRPA), le décret attaqué doit être soumis pour avis au COEPIA.
 
 En l'espèce, il ne fait aucun doute que le décret attaqué a bien fait l'objet d'un avis du COEPIA. En effet, parmi les visas de ce décret figure explicitement la mention suivante :
 
 > « Vu l'avis du conseil d'orientation de l'édition publique et de l'information administrative en date du 24 juin 2016 ».
 
-Le décret n° 2015-464 du 23 avril 2015 portant renouvellement du conseil d'orientation de l'édition publique et de l'information administrative fait du COEPIA une commission administrative à caractère consultatif. Son fonctionnement, notamment lorsqu'il délibère à propos d'un avis, est donc régi par le Chapitre III, Titre III, Livre Ier du code des relations entre le public et l'administration.
+Le décret n° 2015-464 du 23 avril 2015 portant renouvellement du conseil d'orientation de l'édition publique et de l'information administrative fait du COEPIA une commission administrative à caractère consultatif. Son fonctionnement, notamment lorsqu'il délibère à propos d'un avis, est donc régi par le chapitre III, titre III, livre Ier du Code des relations entre le public et l'administration.
 
 Ces règles incluent notamment l'article R133-12 qui prévoit l'interdiction qui est faite aux membres d'une commission de prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire qui en est l'objet.
 
@@ -100,9 +100,9 @@ En troisième lieu, les dispositions du décret contesté sont illégales en l'a
 
 Le décret attaqué doit au surplus être annulé en ce qu'il est contraire au droit de l'Union européenne, à la loi ainsi qu'à la Constitution.
 
-## A. Moyens tirés de la non-conformité du code des relations entre le public et l'administration aux dispositions de la Constitution
+## A. Moyens tirés de la non-conformité du Code des relations entre le public et l'administration aux dispositions de la Constitution
 
-D'emblée, il convient de rappeler que le décret n° 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public a notamment été pris pour l'application du chapitre IV du titre II du livre III du code des relations entre le public et l'administration et notamment des articles L324-1, L324-2, L324-4 et L324-5 de ce code.
+D'emblée, il convient de rappeler que le décret n° 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public a notamment été pris pour l'application du chapitre IV du titre II du livre III du Code des relations entre le public et l'administration et notamment des articles L324-1, L324-2, L324-4 et L324-5 de ce code.
 
 Or, en droit, selon les dispositions de l'article 34 de la Constitution :
 
@@ -112,7 +112,7 @@ Or, en droit, selon les dispositions de l'article 34 de la Constitution :
 
 Sur les mêmes fondements, le Conseil constitutionnel estime que les redevances perçues par des établissements publics à caractère administratif « destinées à assurer le financement des dépenses de toute nature qui incombent [à ces établissements] ne constituent pas davantage des rémunérations pour services rendus […] ces redevances doivent être rangées parmi les impositions de toute nature dont l'article 34 de la Constitution réserve au législateur le soin de fixer les règles concernant l'assiette, le taux et les modalités de recouvrement » (Cons. const, 23 juin 1982, décision n° 82-124 L).
 
-Les articles L324-4 et L324-5 du code des relations entre le public et l'administration soumettent à la publication de décrets les dispositions liées à l'établissement de redevances pour données publiques.
+Les articles L324-4 et L324-5 du Code des relations entre le public et l'administration soumettent à la publication de décrets les dispositions liées à l'établissement de redevances pour données publiques.
 
 L'article L324-1 prévoit que des administrations « peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes propres une part substantielle des coûts liés à l'accomplissement de leurs missions de service public ».
 
@@ -124,7 +124,7 @@ En autorisant les établissements publics à caractère administratif à établi
 
 **Ce faisant, le législateur a indubitablement méconnu sa propre compétence.**
 
-Les articles L324-1, L324-2, L324-4 et L324-5 ont été introduits dans le code des relations entre le public et l'administration par la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public. Cette loi n'a pas été soumise au Conseil constitutionnel avant sa promulgation. Le Conseil constitutionnel n'a donc pas pu se prononcer sur la conformité de ces dispositions à la Constitution.
+Les articles L324-1, L324-2, L324-4 et L324-5 ont été introduits dans le Code des relations entre le public et l'administration par la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public. Cette loi n'a pas été soumise au Conseil constitutionnel avant sa promulgation. Le Conseil constitutionnel n'a donc pas pu se prononcer sur la conformité de ces dispositions à la Constitution.
 
 Si, dans le rapport qu'il a remis au Premier Ministre le 5 novembre de 2013, Monsieur Mohammed Adnène TROJETTE, magistrat de la Cour des comptes, s'est interrogé sur la constitutionnalité des redevances pour données publiques, cette question n'a pas fait l'objet d'une étude d'impact de la part du Gouvernement et n'a, en tout état de cause, pas été soumise au Conseil constitutionnel.
 
@@ -186,7 +186,7 @@ En permettant à des administrations ayant pour mission de service public la mis
 
 **PAR CES MOTIFS**, et tous autres à produire, déduire, suppléer, au besoin même d'office, l'exposante conclut à ce qu'il plaise au Conseil d'État de :
 
-1. **TRANSMETTRE AU CONSEIL CONSTITUTIONNEL** une question prioritaire de constitutionnalité permettant de déterminer la conformité à la Constitution des dispositions des articles L324-1, L324-2, L324-4 et L324-5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV du titre II du livre III du code des relations entre le public et l'administration ;
+1. **TRANSMETTRE AU CONSEIL CONSTITUTIONNEL** une question prioritaire de constitutionnalité permettant de déterminer la conformité à la Constitution des dispositions des articles L324-1, L324-2, L324-4 et L324-5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV du titre II du livre III du Code des relations entre le public et l'administration ;
 
 2. **ANNULER** le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°3) ;
 
