@@ -41,7 +41,7 @@ Le Premier ministre a pris les mesures d'application de ces dispositions en adop
 
 # II. Intérêt à agir
 
-L'association Regards Citoyens est recevable à solliciter l'annulation des dispositions contestées du décret attaqué en ce qu'il prévoit des mesures d'application des dispositions de l'article 5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV, du titre II, du livre III du Code des relations entre le public et l'administration.
+L'association Regards Citoyens est recevable à solliciter l'annulation des dispositions contestées du décret attaqué en ce qu'il prévoit des mesures d'application des dispositions de l'article 5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV du titre II du livre III du Code des relations entre le public et l'administration.
 
 Ces mesures d'application affectent directement les modalités de libre accès et de réutilisation par les citoyens des informations du secteur public. C'est donc en parfaite conformité avec ses missions statutaires (production n° 2) que l'association introduit ce recours :
 
@@ -80,7 +80,7 @@ En l'espèce, il ne fait aucun doute que le décret attaqué a bien fait l'objet
 
 > « Vu l'avis du conseil d'orientation de l'édition publique et de l'information administrative en date du 24 juin 2016 ».
 
-Le décret n° 2015-464 du 23 avril 2015 portant renouvellement du conseil d'orientation de l'édition publique et de l'information administrative fait du COEPIA une commission administrative à caractère consultatif. Son fonctionnement, notamment lorsqu'il délibère à propos d'un avis, est donc régi par le chapitre III, titre III, livre Ier du Code des relations entre le public et l'administration.
+Le décret n° 2015-464 du 23 avril 2015 portant renouvellement du conseil d'orientation de l'édition publique et de l'information administrative fait du COEPIA une commission administrative à caractère consultatif. Son fonctionnement, notamment lorsqu'il délibère à propos d'un avis, est donc régi par le chapitre III du titre III du livre Ier du Code des relations entre le public et l'administration.
 
 Ces règles incluent notamment l'article R133-12 qui prévoit l'interdiction qui est faite aux membres d'une commission de prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire qui en est l'objet.
 
