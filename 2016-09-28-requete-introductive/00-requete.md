@@ -108,7 +108,7 @@ Or, en droit, selon les dispositions de l'article 34 de la Constitution :
 
 > « La loi fixe les règles concernant […] l'assiette, le taux et les modalités de recouvrement des impositions de toutes natures »
 
-À ce titre, le Conseil constitutionnel estime qu'une « redevance « destinée à couvrir notamment les dépenses » de l'administration « n'est pas uniquement la contrepartie d'un service rendu et qu'elle a, dès lors, le caractère d'une taxe que l'article 34 de la Constitution réserve à la loi » (Cons. const, 16 novembre 1977, décision n° 77-100 L).
+À ce titre, le Conseil constitutionnel estime qu'une redevance « destinée à couvrir notamment les dépenses » de l'administration « n'est pas uniquement la contrepartie d'un service rendu et qu'elle a, dès lors, le caractère d'une taxe que l'article 34 de la Constitution réserve à la loi » (Cons. const, 16 novembre 1977, décision n° 77-100 L).
 
 Sur les mêmes fondements, le Conseil constitutionnel estime que les redevances perçues par des établissements publics à caractère administratif « destinées à assurer le financement des dépenses de toute nature qui incombent [à ces établissements] ne constituent pas davantage des rémunérations pour services rendus […] ces redevances doivent être rangées parmi les impositions de toute nature dont l'article 34 de la Constitution réserve au législateur le soin de fixer les règles concernant l'assiette, le taux et les modalités de recouvrement » (Cons. const, 23 juin 1982, décision n° 82-124 L).
 
