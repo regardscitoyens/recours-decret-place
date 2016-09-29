@@ -66,7 +66,7 @@ Le décret attaqué est entaché d'incompétence. Il a été adopté au terme d'
 
 ## A. Texte publié non soumis au Conseil d'État
 
-En premier lieu, et sur la légalité externe, le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la Section de l'Intérieur du Conseil d'État.
+En premier lieu, et sur la légalité externe, le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la section de l'intérieur du Conseil d'État.
 
 **De ce chef déjà, l'annulation du décret litigieux est acquise.**
 
@@ -86,7 +86,7 @@ Ces règles incluent notamment l'article R133-12 qui prévoit l'interdiction qui
 
 Or, faute de publicité de l'avis du COEPIA ainsi que du procès-verbal de délibération et des déclarations d'intérêts des membres du COEPIA, il ne saurait être établi que les obligations de déport prévues à l'article R133-12 ont été respectées.
 
-De plus, dans sa décision n° 361962 (Section du contentieux du 22 juillet 2015), le Conseil d'État indique qu'en plus des règles de déport des membres en situation de conflit d'intérêts, des éléments contextuels comme la présence de ces membres pendant les délibérations peuvent « influencer les positions prises par d'autres membres de l'instance ».
+De plus, dans sa décision n° 361962 (section du contentieux du 22 juillet 2015), le Conseil d'État indique qu'en plus des règles de déport des membres en situation de conflit d'intérêts, des éléments contextuels comme la présence de ces membres pendant les délibérations peuvent « influencer les positions prises par d'autres membres de l'instance ».
 
 Or, en l'absence de publicité tant du lieu que des personnes présentes lors de la délibération, il ne saurait être établi que l'avis respecte les règles édictées par le Conseil d'État.
 
