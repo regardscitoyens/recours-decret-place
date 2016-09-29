@@ -2,7 +2,7 @@
 % **CONSEIL D'ÉTAT -- SECTION DU CONTENTIEUX**
 % **REQUÊTE INTRODUCTIVE D'INSTANCE**
 
-## Pour
+## Par
 
 L'association Regards Citoyens, association régie par la loi du 1er juillet 1901 et déclarée le 9 juin 2010 à la préfecture du Rhône (déclaration publiée au Journal Officiel de la République française n° 20100026 du 26 juin 2010), dont le siège social est chez Julien Rabier, Bâtiment A2, 17 rue Corneille à Toulouse (31100). Prise par son conseil d'administration en exercice habilité par une délibération de l'assemblée générale en date du 28 septembre 2016 (production n° 1) prise en application des statuts (production n° 2).
 
