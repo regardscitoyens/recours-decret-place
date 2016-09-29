@@ -114,11 +114,11 @@ Sur les mêmes fondements, le Conseil constitutionnel estime que les redevances 
 
 Les articles L324-4 et L324-5 du code des relations entre le public et l'administration soumettent à la publication de décrets les dispositions liées à l'établissement de redevances pour données publiques.
 
-L'article L324-1 prévoit que des administrations « peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes propres une part substantielle des coûts liés à l'accomplissement de leurs missions de service public »
+L'article L324-1 prévoit que des administrations « peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes propres une part substantielle des coûts liés à l'accomplissement de leurs missions de service public ».
 
 L'article L324-2 prévoit que « des bibliothèques, y compris des bibliothèques universitaires, des musées et des archives » peuvent établir des redevances « sur des informations issues des opérations de numérisation des fonds et des collections ».
 
-Parmi les administrations visées par l'article L324-1 et les organisations vidées par l'article L324-2, il existe des établissements publics à caractères administratif (INSEE, SHOM, Bibliothèque nationale de France, …).
+Parmi les administrations visées par l'article L324-1 et les organisations vidées par l'article L324-2, il existe des établissements publics à caractères administratif (INSEE, SHOM, Bibliothèque nationale de France…).
 
 En autorisant les établissements publics à caractère administratif à établir des ressources budgétaires (au sens de l'article 3 de la loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances dispose) appelées « redevances de réutilisation des informations du secteur public » et en autorisant ces « redevances » à couvrir des missions de service public, le chapitre IV du titre II du livre III méconnait les dispositions de l'article 34 de la Constitution, qui fixent le domaine de la loi.
 
