@@ -31,7 +31,7 @@ Le Parlement a adopté la loi n° 2015-1779 du 28 décembre 2015 relative à la 
 
 L'article L. 324-4 de ce code dispose que :
 
-> « Les modalités de fixation de ces redevances sont fixées par décret en Conseil d'État, après avis de l'autorité compétente. Ce décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L. 324-1. La liste des catégories d'administrations est révisée tous les cinq ans »
+> « Les modalités de fixation de ces redevances sont fixées par décret en Conseil d'État, après avis de l'autorité compétente. Ce décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L. 324-1. La liste des catégories d'administrations est révisée tous les cinq ans. »
 
 Le Premier ministre a pris les mesures d'application de ces dispositions en adoptant le décret n° 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public, publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016.
 
@@ -144,7 +144,7 @@ Cependant, cette règle ne s'applique pas :
 
 Le décret attaqué prévoit en son article 1er que :
 
-> « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L. 324-1 les services de l'État et les autres personnes mentionnées à l'article L. 300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions »
+> « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L. 324-1 les services de l'État et les autres personnes mentionnées à l'article L. 300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions. »
 
 Le décret définit donc la « part substantielle » des « coûts liés à l'accomplissement de leurs missions de service public » ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
 
@@ -152,7 +152,7 @@ Le décret attaqué établit ainsi un seuil arbitraire applicable à toutes les 
 
 Dans son arrêt du 30 juin 1999 (décision n° 198147), le Conseil d'État a retenu le seuil minimal de 30% comme « part substantielle » des recettes autres que celles correspondant au prix payé par la personne publique dans le cadre d'une délégation de service publique attribuée à un acteur privé.
 
-Le décret attaqué régit les rémunérations des missions de service public menées par des organismes publics et non d'une délégation de service public par un acteur privé. 
+Le décret attaqué régit les rémunérations des missions de service public menées par des organismes publics et non d'une délégation de service public par un acteur privé.
 Ainsi, le seuil retenu pour un organisme du secteur public ne saurait donc être inférieur à celui appliqué à un acteur privé.
 
 **De ce chef, l'annulation du décret est acquise.**
@@ -171,11 +171,11 @@ En effet, la jurisprudence constitutionnelle encadre fortement la procédure des
 
 Le législateur organique a fait sienne cette interprétation de la Constitution. La loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances dispose, en son article 3, que :
 
-> « Les ressources budgétaires de l'État comprennent : […] 2° […] les rémunérations des services rendus par lui ».
+> « Les ressources budgétaires de l'État comprennent : […] 2° […] les rémunérations des services rendus par lui »
 
 Il s'attribue la compétence d'apprécier ultimement la conformité de telles ressources édictées par le pouvoir réglementaire. L'article 4 de la même loi organique précise en effet que :
 
-> « La rémunération de services rendus par l'État peut être établie et perçue sur la base de décrets en Conseil d'État pris sur le rapport du ministre chargé des finances et du ministre intéressé. Ces décrets deviennent caducs en l'absence d'une ratification dans la plus prochaine loi de finances afférente à l'année concernée ».
+> « La rémunération de services rendus par l'État peut être établie et perçue sur la base de décrets en Conseil d'État pris sur le rapport du ministre chargé des finances et du ministre intéressé. Ces décrets deviennent caducs en l'absence d'une ratification dans la plus prochaine loi de finances afférente à l'année concernée. »
 
 En tout état de cause, les redevances concernées, lorsqu'elles existent déjà, n'ont pas toutes été établies par décret en Conseil d'État et, lorsqu'elles l'ont été, toutes n'ont pas été ratifiées dans la plus prochaine loi de finances.
 
@@ -197,7 +197,7 @@ Avec toutes conséquences de droit.
 
 Le 28 septembre 2016, à Paris
 
-Pour l'association **Regards Citoyens,**
+Pour l'association **Regards Citoyens**,
 
 Le Conseil d'Administration
 
