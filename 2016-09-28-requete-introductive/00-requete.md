@@ -72,7 +72,7 @@ En premier lieu, et sur la légalité externe, le décret attaqué est entaché 
 
 ## B. Respect des règles de fonctionnement des organismes consultés
 
-En second lieu, le décret a été adopté au terme d'une procédure irrégulière, dès lors que le Conseil d'orientation de l'édition publique et de l'information administrative (COEPIA) n'a pas un fonctionnement conforme aux règles le régissant.
+En deuxième lieu, le décret a été adopté au terme d'une procédure irrégulière, dès lors que le Conseil d'orientation de l'édition publique et de l'information administrative (COEPIA) n'a pas un fonctionnement conforme aux règles le régissant.
 
 En effet, selon les disposition des articles L324-4 et R324-7 du code des relations entre le public et l'administration (CRPA), le décret attaqué doit être soumis pour avis au COEPIA.
 
@@ -92,7 +92,7 @@ Or, en l'absence de publicité tant du lieu que des personnes présentes lors de
 
 **De ce chef déjà, l'annulation est acquise.**
 
-En second lieu, les dispositions du décret contesté sont illégales en l’absence de toute base juridique qui en permette l’édiction, compte tenu de l’inconventionnalité des dispositions législatives que les dispositions règlementaires mettent en œuvre.
+En troisième lieu, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de l'inconventionnalité des dispositions législatives que les dispositions règlementaires mettent en œuvre.
 
 \newpage
 
