@@ -41,7 +41,7 @@ Le Premier ministre a pris les mesures d'application de ces dispositions en adop
 
 # II. Intérêt à agir
 
-L'association Regards Citoyens est recevable à solliciter l'annulation des dispositions contestées du décret attaqué en ce qu'il prévoit des mesures d'application des dispositions de l'article 5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiée à l'article L324-4 du code des relations entre le public et l'administration.
+L'association Regards Citoyens est recevable à solliciter l'annulation des dispositions contestées du décret attaqué en ce qu'il prévoit des mesures d'application des dispositions de l'article 5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées à l'article L324-4 du code des relations entre le public et l'administration.
 
 Ces mesures d'application affectent directement les modalités de libre accès et de réutilisation par les citoyens des informations du secteur public. C'est donc en parfaite conformité avec ses missions statutaires (production n° 2) que l'association introduit ce recours :
 
