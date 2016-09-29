@@ -149,8 +149,6 @@ Le décret attaqué prévoit en son article 1er que :
 
 Le décret définit donc la « part substantielle » des « coûts liés à l'accomplissement de leurs missions de service public » ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
 
-Le décret attaqué établit ainsi un seuil arbitraire applicable à toutes les administrations.
-
 Dans son arrêt du 30 juin 1999 (décision n° 198147), le Conseil d'État a retenu le seuil minimal de 30% comme « part substantielle » des recettes autres que celles correspondant au prix payé par la personne publique dans le cadre d'une délégation de service publique attribuée à un acteur privé.
 
 Le décret attaqué régit les rémunérations des missions de service public menées par des organismes publics et non d'une délégation de service public par un acteur privé.
