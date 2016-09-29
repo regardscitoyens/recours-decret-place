@@ -66,7 +66,7 @@ Le décret attaqué est entaché d'incompétence. Il a été adopté au terme d'
 
 ## A. Texte publié non soumis au Conseil d'État
 
-En premier lieu, et sur la légalité externe, le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la Section de l'Intérieur du Conseil d'Etat.
+En premier lieu, et sur la légalité externe, le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la Section de l'Intérieur du Conseil d'État.
 
 **De ce chef déjà, l'annulation du décret litigieux est acquise.**
 
