@@ -146,7 +146,7 @@ Le décret attaqué prévoit en son article 1er que :
 
 > « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L. 324-1 les services de l'État et les autres personnes mentionnées à l'article L. 300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions »
 
-Le décret définit donc la « part substantielle » des « coûts liés à l'accomplissement de leurs missions de service public »  ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
+Le décret définit donc la « part substantielle » des « coûts liés à l'accomplissement de leurs missions de service public » ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
 
 Le décret attaqué établit ainsi un seuil arbitraire applicable à toutes les administrations.
 
@@ -167,7 +167,7 @@ Or le décret attaqué prévoit en son premier article que :
 
 Le décret concerne des administrations publiques dont la mission ou, à tout le moins, l'une des missions, consiste en la mise à disposition ou la diffusion d'information publiques. Ce faisant, il autorise la création (ou le maintien en vigueur) de ressources budgétaires perçues en contrepartie de l'exercice d'une mission de service public, c'est-à-dire en contrepartie d'une charge courante du service public, en contradiction avec les dispositions législatives organiques, mais aussi de l'interprétation qu'en donne le Conseil constitutionnel.
 
-En effet, la jurisprudence constitutionnelle encadre fortement la procédure des fonds de concours. La décision n° 94-351 DC rappelle que les principes d'unité et d'universalité budgétaires « font obstacle à ce que des dépenses qui […] présentent […] par nature un caractère permanent ne soient pas prises en charge par le budget ou soient financées par des ressources que celui-ci ne détermine pas ». Cela s'applique aussi « aux budgets annexes, dont les dépenses d'exploitation suivent les mêmes règles que les dépenses ordinaires du budget »  (Cons. const, 29 décembre 1994, décision n° 94-351 DC).
+En effet, la jurisprudence constitutionnelle encadre fortement la procédure des fonds de concours. La décision n° 94-351 DC rappelle que les principes d'unité et d'universalité budgétaires « font obstacle à ce que des dépenses qui […] présentent […] par nature un caractère permanent ne soient pas prises en charge par le budget ou soient financées par des ressources que celui-ci ne détermine pas ». Cela s'applique aussi « aux budgets annexes, dont les dépenses d'exploitation suivent les mêmes règles que les dépenses ordinaires du budget » (Cons. const, 29 décembre 1994, décision n° 94-351 DC).
 
 Le législateur organique a fait sienne cette interprétation de la Constitution. La loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances dispose, en son article 3, que :
 
