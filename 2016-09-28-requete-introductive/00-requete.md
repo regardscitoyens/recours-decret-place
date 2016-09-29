@@ -8,9 +8,9 @@ L'association Regards Citoyens, association régie par la loi du 1er juillet 190
 
 ## Contre
 
-Le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°3)
+Le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°3).
 
-**En tant que de besoin contre** le Premier Ministre, Hôtel de Matignon, 64 rue de Varenne 75007 PARIS
+**En tant que de besoin contre** le Premier Ministre, Hôtel de Matignon, 64 rue de Varenne, 75007 PARIS.
 
 ## 
 
@@ -29,9 +29,9 @@ Le 27 juin 2013 a été publié au Journal Officiel de l'Union européenne la di
 
 Le Parlement a adopté la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public afin de transposer en droit interne les dispositions législatives de cette directive. L'ordonnance n° 2016-307 du 17 mars 2016 portant codification des dispositions relatives à la réutilisation des informations publiques dans le code des relations entre le public et l'administration a été publiée au Journal Officiel de la République française n° 0066 du 18 mars 2016.
 
-L'article L 324-4 de ce code dispose que :
+L'article L. 324-4 de ce code dispose que :
 
-> « Les modalités de fixation de ces redevances sont fixées par décret en Conseil d'État, après avis de l'autorité compétente. Ce décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L 324-1. La liste des catégories d'administrations est révisée tous les cinq ans »
+> « Les modalités de fixation de ces redevances sont fixées par décret en Conseil d'État, après avis de l'autorité compétente. Ce décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L. 324-1. La liste des catégories d'administrations est révisée tous les cinq ans »
 
 Le Premier ministre a pris les mesures d'application de ces dispositions en adoptant le décret n° 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public, publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016.
 
@@ -74,7 +74,7 @@ En premier lieu, et sur la légalité externe, le décret attaqué est entaché 
 
 En deuxième lieu, le décret a été adopté au terme d'une procédure irrégulière, dès lors que le Conseil d'orientation de l'édition publique et de l'information administrative (COEPIA) n'a pas un fonctionnement conforme aux règles le régissant.
 
-En effet, selon les disposition des articles L324-4 et R324-7 du code des relations entre le public et l'administration (CRPA), le décret attaqué doit être soumis pour avis au COEPIA.
+En effet, selon les disposition des articles L. 324-4 et R. 324-7 du code des relations entre le public et l'administration (CRPA), le décret attaqué doit être soumis pour avis au COEPIA.
 
 En l'espèce, il ne fait aucun doute que le décret attaqué a bien fait l'objet d'un avis du COEPIA. En effet, parmi les visas de ce décret figure explicitement la mention suivante :
 
@@ -102,7 +102,7 @@ Le décret attaqué doit au surplus être annulé en ce qu'il est contraire au d
 
 ## A. Moyens tirés de la non-conformité du code des relations entre le public et l'administration aux dispositions de la Constitution
 
-D'emblée, il convient de rappeler que le décret n° 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public a notamment été pris pour l'application du chapitre IV du titre II du livre III du code des relations entre le public et l'administration et notamment des articles L324-1, L324-2, L324-4 et L324-5 de ce code.
+D'emblée, il convient de rappeler que le décret n° 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public a notamment été pris pour l'application du chapitre IV du titre II du livre III du code des relations entre le public et l'administration et notamment des articles L. 324-1, L. 324-2, L. 324-4 et L. 324-5 de ce code.
 
 Or, en droit, selon les dispositions de l'article 34 de la Constitution :
 
@@ -112,19 +112,19 @@ Or, en droit, selon les dispositions de l'article 34 de la Constitution :
 
 Sur les mêmes fondements, le Conseil constitutionnel estime que les redevances perçues par des établissements publics à caractère administratif « destinées à assurer le financement des dépenses de toute nature qui incombent [à ces établissements] ne constituent pas davantage des rémunérations pour services rendus […] ces redevances doivent être rangées parmi les impositions de toute nature dont l'article 34 de la Constitution réserve au législateur le soin de fixer les règles concernant l'assiette, le taux et les modalités de recouvrement » (Cons. const, 23 juin 1982, décision n° 82-124 L).
 
-Les articles L324-4 et L324-5 du code des relations entre le public et l'administration soumettent à la publication de décrets les dispositions liées à l'établissement de redevances pour données publiques.
+Les articles L. 324-4 et L. 324-5 du code des relations entre le public et l'administration soumettent à la publication de décrets les dispositions liées à l'établissement de redevances pour données publiques.
 
-L'article L324-1 prévoit que des administrations « peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes propres une part substantielle des coûts liés à l'accomplissement de leurs missions de service public ».
+L'article L. 324-1 prévoit que des administrations « peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes propres une part substantielle des coûts liés à l'accomplissement de leurs missions de service public ».
 
-L'article L324-2 prévoit que « des bibliothèques, y compris des bibliothèques universitaires, des musées et des archives » peuvent établir des redevances « sur des informations issues des opérations de numérisation des fonds et des collections ».
+L'article L. 324-2 prévoit que « des bibliothèques, y compris des bibliothèques universitaires, des musées et des archives » peuvent établir des redevances « sur des informations issues des opérations de numérisation des fonds et des collections ».
 
-Parmi les administrations visées par l'article L324-1 et les organisations vidées par l'article L324-2, il existe des établissements publics à caractères administratif (INSEE, SHOM, Bibliothèque nationale de France…).
+Parmi les administrations visées par l'article L. 324-1 et les organisations vidées par l'article L. 324-2, il existe des établissements publics à caractères administratif (INSEE, SHOM, Bibliothèque nationale de France…).
 
 En autorisant les établissements publics à caractère administratif à établir des ressources budgétaires (au sens de l'article 3 de la loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances) appelées « redevances de réutilisation des informations du secteur public » et en autorisant ces « redevances » à couvrir des missions de service public, le chapitre IV du titre II du livre III méconnait les dispositions de l'article 34 de la Constitution, qui fixent le domaine de la loi.
 
 **Ce faisant, le législateur a indubitablement méconnu sa propre compétence.**
 
-Les articles L324-1, L324-2, L324-4 et L324-5 ont été introduits dans le code des relations entre le public et l'administration par la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public. Cette loi n'a pas été soumise au Conseil constitutionnel avant sa promulgation. Le Conseil constitutionnel n'a donc pas pu se prononcer sur la conformité de ces dispositions à la Constitution.
+Les articles L. 324-1, L. 324-2, L. 324-4 et L. 324-5 ont été introduits dans le code des relations entre le public et l'administration par la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public. Cette loi n'a pas été soumise au Conseil constitutionnel avant sa promulgation. Le Conseil constitutionnel n'a donc pas pu se prononcer sur la conformité de ces dispositions à la Constitution.
 
 Si, dans le rapport qu'il a remis au Premier Ministre le 5 novembre de 2013, Monsieur Mohammed Adnène TROJETTE, magistrat de la Cour des comptes, s'est interrogé sur la constitutionnalité des redevances pour données publiques, cette question n'a pas fait l'objet d'une étude d'impact de la part du Gouvernement et n'a, en tout état de cause, pas été soumise au Conseil constitutionnel.
 
@@ -144,7 +144,7 @@ Cependant, cette règle ne s'applique pas :
 
 Le décret attaqué prévoit en son article 1er que :
 
-> « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L324-1 les services de l'État et les autres personnes mentionnées à l'article L300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions »
+> « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L. 324-1 les services de l'État et les autres personnes mentionnées à l'article L. 300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions »
 
 Le décret définit donc la « part substantielle » des « coûts liés à l'accomplissement de leurs missions de service public »  ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
 
@@ -163,7 +163,7 @@ Dans ses décisions du 16 novembre 1977 (décision n° 77-100 L) et 23 juin 1982
 
 Or le décret attaqué prévoit en son premier article que :
 
-> « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L324-1 les services de l'État et les autres personnes mentionnées à l'article L300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions ».
+> « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L. 324-1 les services de l'État et les autres personnes mentionnées à l'article L. 300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions ».
 
 Le décret concerne des administrations publiques dont la mission ou, à tout le moins, l'une des missions, consiste en la mise à disposition ou la diffusion d'information publiques. Ce faisant, il autorise la création (ou le maintien en vigueur) de ressources budgétaires perçues en contrepartie de l'exercice d'une mission de service public, c'est-à-dire en contrepartie d'une charge courante du service public, en contradiction avec les dispositions législatives organiques, mais aussi de l'interprétation qu'en donne le Conseil constitutionnel.
 
@@ -187,11 +187,11 @@ En permettant à des administrations ayant pour mission de service public la mis
 
 **PAR CES MOTIFS**, et tous autres à produire, déduire, suppléer, au besoin même d'office, l'exposante conclut à ce qu'il plaise au Conseil d'État :
 
-1. **TRANSMETTRE AU CONSEIL CONSTITUTIONNEL** une question prioritaire de constitutionnalité permettant de déterminer la conformité à la Constitution des dispositions des articles L324-1, L324-2, L324-4 et L324-5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV du titre II du livre III du code des relations entre le public et l'administration ;
+1. **TRANSMETTRE AU CONSEIL CONSTITUTIONNEL** une question prioritaire de constitutionnalité permettant de déterminer la conformité à la Constitution des dispositions des articles L. 324-1, L. 324-2, L. 324-4 et L. 324-5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV du titre II du livre III du code des relations entre le public et l'administration ;
 
 2. **ANNULER** le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°3) ;
 
-3. **METTRE À LA CHARGE** de l'État la somme de 2048 euros sur le fondement de l'article L761-1 du code de justice administrative ;
+3. **METTRE À LA CHARGE** de l'État la somme de 2048 euros sur le fondement de l'article L. 761-1 du code de justice administrative.
 
 Avec toutes conséquences de droit.
 
