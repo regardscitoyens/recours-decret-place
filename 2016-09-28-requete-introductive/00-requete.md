@@ -41,11 +41,11 @@ Le Premier ministre a pris les mesures d'application de ces dispositions en adop
 
 # II. Intérêt à agir
 
-L'association Regards Citoyens est recevable à solliciter l’annulation des dispositions contestées du décret attaqué en ce qu’il prévoit des mesures d’application des dispositions de l'article 5 de la loi 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiée à l'article L. 324-4 du code des relations entre le public et l'administration.
+L'association Regards Citoyens est recevable à solliciter l'annulation des dispositions contestées du décret attaqué en ce qu'il prévoit des mesures d'application des dispositions de l'article 5 de la loi 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiée à l'article L. 324-4 du code des relations entre le public et l'administration.
 
 Ces mesures d'application affectent directement les modalités de libre accès et de réutilisation par les citoyens des informations du secteur public. C'est donc en parfaite conformité avec ses missions statutaires (production n°2) que l'association introduit ce recours :
 
-> « Cette association a pour objet de renforcer l’éducation et l’engagement civique en promouvant par la pratique le libre accès aux données publiques et leur réutilisation, notamment pour des usages citoyens ou de valorisation des institutions. L'association entend notamment réaliser les objectifs suivants :
+> « Cette association a pour objet de renforcer l'éducation et l'engagement civique en promouvant par la pratique le libre accès aux données publiques et leur réutilisation, notamment pour des usages citoyens ou de valorisation des institutions. L'association entend notamment réaliser les objectifs suivants :
 > 
 > […]
 > 
@@ -60,15 +60,15 @@ Ces mesures d'application affectent directement les modalités de libre accès e
 
 # III. Discussion - Légalité externe
 
-À titre liminaire, il doit d’ores et déjà être précisé que l'association requérante formera une question prioritaire de constitutionnalité dans un mémoire séparé qui sera communiqué ultérieurement.
+À titre liminaire, il doit d'ores et déjà être précisé que l'association requérante formera une question prioritaire de constitutionnalité dans un mémoire séparé qui sera communiqué ultérieurement.
 
 Le décret attaqué est entaché d'incompétence. Il a été adopté au terme d'une procédure irrégulière, résultant de causes multiples.
 
 ## A. Texte publié non soumis au Conseil d'État
 
-En premier lieu, et sur la légalité externe, le décret attaqué est entaché d’incompétence et a été adopté au terme d’une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la Section de l’Intérieur du Conseil d’Etat.
+En premier lieu, et sur la légalité externe, le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la Section de l'Intérieur du Conseil d'Etat.
 
-**De ce chef déjà, l’annulation du décret litigieux est acquise.**
+**De ce chef déjà, l'annulation du décret litigieux est acquise.**
 
 ## B. Respect des règles de fonctionnement des organismes consultés
 
@@ -128,7 +128,7 @@ Les articles L324-1, L324-2, L324-4 et L324-5 ont été introduits dans le code 
 
 Si, dans le rapport qu'il a remis au Premier Ministre le 5 novembre de 2013, Monsieur Mohammed Adnène TROJETTE, magistrat de la Cour des comptes, s'est interrogé sur la constitutionnalité des redevances pour données publiques, cette question n'a pas fait l'objet d'une étude d'impact de la part du Gouvernement et n'a, en tout état de cause, pas été soumise au Conseil constitutionnel.
 
-**De ces chefs, la question prioritaire de constitutionnalité présente un caractère sérieux et nouveau et ne pourra donc qu’être transmise au Conseil constitutionnel.**
+**De ces chefs, la question prioritaire de constitutionnalité présente un caractère sérieux et nouveau et ne pourra donc qu'être transmise au Conseil constitutionnel.**
 
 Mais il y a plus.
 
@@ -139,14 +139,14 @@ Dans son article 6, la directive 2003/98/CE du Parlement européen et du Conseil
 > « 1. Lorsque la réutilisation de documents est soumise à des redevances, lesdites redevances sont limitées aux coûts marginaux de reproduction, de mise à disposition et de diffusion. »
 
 Cependant, cette règle ne s'applique pas :
-- aux « organismes du secteur public qui sont tenus de générer des recettes destinées à couvrir une part substantielle des coûts liés à l’accomplissement de leurs missions de service public »,
+- aux « organismes du secteur public qui sont tenus de générer des recettes destinées à couvrir une part substantielle des coûts liés à l'accomplissement de leurs missions de service public »,
 - aux documents pour lesquels ces organismes sont tenus « de générer des recettes suffisantes pour couvrir une part substantielle des coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion ».
 
 Le décret attaqué prévoit en son article 1er que :
 
 > « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L324-1 les services de l'État et les autres personnes mentionnées à l'article L300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions »
 
-Le décret définit donc la « part substantielle » des « coûts liés à l’accomplissement de leurs missions de service public »  ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recette générées.
+Le décret définit donc la « part substantielle » des « coûts liés à l'accomplissement de leurs missions de service public »  ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
 
 Le décret attaqué établit ainsi un seuil arbitraire applicable à toutes les administrations.
 
@@ -167,7 +167,7 @@ Or le décret attaqué prévoit en son premier article que :
 
 Le décret concerne des administrations publiques dont la mission ou, à tout le moins, l'une des missions, consiste en la mise à disposition ou la diffusion d'information publiques. Ce faisant, il autorise la création (ou le maintien en vigueur) de ressources budgétaires perçues en contrepartie de l'exercice d'une mission de service public, c'est-à-dire en contrepartie d'une charge courante du service public, en contradiction avec les dispositions législatives organiques, mais aussi de l'interprétation qu'en donne le Conseil constitutionnel.
 
-En effet, la jurisprudence constitutionnelle encadre fortement la procédure des fonds de concours. La décision n° 94-351 DC rappelle que les principes d’unité et d’universalité budgétaires « font obstacle à ce que des dépenses qui […] présentent […] par nature un caractère permanent ne soient pas prises en charge par le budget ou soient financées par des ressources que celui-ci ne détermine pas ». Cela s’applique aussi « aux budgets annexes, dont les dépenses d’exploitation suivent les mêmes règles que les dépenses ordinaires du budget »  (Cons. const, 29 décembre 1994, décision n° 94-351 DC).
+En effet, la jurisprudence constitutionnelle encadre fortement la procédure des fonds de concours. La décision n° 94-351 DC rappelle que les principes d'unité et d'universalité budgétaires « font obstacle à ce que des dépenses qui […] présentent […] par nature un caractère permanent ne soient pas prises en charge par le budget ou soient financées par des ressources que celui-ci ne détermine pas ». Cela s'applique aussi « aux budgets annexes, dont les dépenses d'exploitation suivent les mêmes règles que les dépenses ordinaires du budget »  (Cons. const, 29 décembre 1994, décision n° 94-351 DC).
 
 Le législateur organique a fait sienne cette interprétation de la Constitution. La loi organique n° 2001-692 du 1 août 2001 relative aux lois de finances dispose, en son article 3, que :
 
