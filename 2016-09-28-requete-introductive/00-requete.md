@@ -186,7 +186,7 @@ En permettant à des administrations ayant pour mission de service public la mis
 
 **PAR CES MOTIFS**, et tous autres à produire, déduire, suppléer, au besoin même d'office, l'exposante conclut à ce qu'il plaise au Conseil d'État de :
 
-1. **TRANSMETTRE AU CONSEIL CONSTITUTIONNEL** une question prioritaire de constitutionnalité permettant de déterminer la conformité à la Constitution des dispositions des articles L324-1, L324-2, L324-4 et L324-5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV du titre II du livre III du Code des relations entre le public et l'administration ;
+1. **TRANSMETTRE AU CONSEIL CONSTITUTIONNEL** une question prioritaire de constitutionnalité permettant de déterminer la conformité à la Constitution des dispositions de l'article 5 de la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public, codifiées au chapitre IV du titre II du livre III du Code des relations entre le public et l'administration ;
 
 2. **ANNULER** le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n°3) ;
 
