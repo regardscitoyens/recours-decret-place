@@ -211,4 +211,4 @@ Le Conseil d'Administration.
 2. Statuts de l'association Regards Citoyens.
 3. Décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016.
 4. La présente requête.
-5. Copie du timbre fiscal dématérialisé
+5. Copie du timbre fiscal dématérialisé.
