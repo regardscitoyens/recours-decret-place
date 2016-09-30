@@ -68,6 +68,8 @@ Le décret attaqué est entaché d'incompétence. Il a été adopté au terme d'
 
 En premier lieu, et sur la légalité externe, le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la section de l'intérieur du Conseil d'État.
 
+Faute de publicité du projet de décret soumis au Conseil d'État, il ne saurait être établi que la procédure a été régulière.
+
 **De ce chef déjà, l'annulation du décret litigieux est acquise.**
 
 ## B. Respect des règles de fonctionnement des organismes consultés
