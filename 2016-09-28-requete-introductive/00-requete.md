@@ -82,17 +82,17 @@ En l'espèce, il ne fait aucun doute que le décret attaqué a bien fait l'objet
 
 Le décret n° 2015-464 du 23 avril 2015 portant renouvellement du conseil d'orientation de l'édition publique et de l'information administrative fait du COEPIA une commission administrative à caractère consultatif. Son fonctionnement, notamment lorsqu'il délibère à propos d'un avis, est donc régi par le chapitre III du titre III du livre Ier du Code des relations entre le public et l'administration.
 
-Ces règles incluent notamment l'article R133-12 qui prévoit l'interdiction qui est faite aux membres d'une commission de prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire qui en est l'objet.
+Ces règles incluent notamment l'article R133-12 qui prévoit l'interdiction pour les membres d'une commission de « prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire qui en est l'objet ».
 
 Or, faute de publicité de l'avis du COEPIA ainsi que du procès-verbal de délibération et des déclarations d'intérêts des membres du COEPIA, il ne saurait être établi que les obligations de déport prévues à l'article R133-12 ont été respectées.
 
-De plus, dans sa décision n° 361962 (section du contentieux du 22 juillet 2015), le Conseil d'État indique qu'en plus des règles de déport des membres en situation de conflit d'intérêts, des éléments contextuels comme la présence de ces membres pendant les délibérations peuvent « influencer les positions prises par d'autres membres de l'instance ».
+De plus, dans sa décision n° 361962 (section du contentieux du 22 juillet 2015), le Conseil d'État précise le cadre d'application du déport en indiquant que des éléments contextuels, comme la « simple présence pendant les délibérations » de membres en situation de conflits d'intérêts, peuvent « influencer les positions prises par d'autres membres de l'instance ».
 
-Or, en l'absence de publicité tant du lieu que des personnes présentes lors de la délibération, il ne saurait être établi que l'avis respecte les règles édictées par le Conseil d'État.
+Or, en l'absence de publicité, tant du lieu, que des personnes présentes lors de la délibération, il ne saurait être établi que l'avis respecte les règles édictées par le Conseil d'État.
 
 **De ce chef déjà, l'annulation est acquise.**
 
-En troisième lieu, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de l'inconventionnalité des dispositions législatives que les dispositions règlementaires mettent en œuvre.
+En troisième lieu, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de l'inconventionnalité des dispositions législatives que les dispositions réglementaires mettent en œuvre.
 
 \newpage
 
@@ -118,15 +118,15 @@ L'article L324-1 prévoit que des administrations « peuvent établir une redeva
 
 L'article L324-2 prévoit que « des bibliothèques, y compris des bibliothèques universitaires, des musées et des archives » peuvent établir des redevances « sur des informations issues des opérations de numérisation des fonds et des collections ».
 
-Parmi les administrations visées par l'article L324-1 et les organisations vidées par l'article L324-2, il existe des établissements publics à caractères administratif (INSEE, SHOM, Bibliothèque nationale de France…).
+Parmi les administrations visées à l'article L324-1 et les organisations visées à l'article L324-2, il existe des établissements publics à caractères administratif (INSEE, SHOM, Bibliothèque nationale de France…).
 
-En autorisant les établissements publics à caractère administratif à établir des ressources budgétaires (au sens de l'article 3 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances) appelées « redevances de réutilisation des informations du secteur public » et en autorisant ces « redevances » à couvrir des missions de service public, le chapitre IV du titre II du livre III méconnait les dispositions de l'article 34 de la Constitution, qui fixent le domaine de la loi.
+En autorisant les établissements publics à caractère administratif à établir des ressources budgétaires (au sens de l'article 3 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances) appelées « redevances de réutilisation des informations du secteur public » et en autorisant ces « redevances » à couvrir des missions de service public, le chapitre IV du titre II du livre III méconnait les dispositions de l'article 34 de la Constitution qui fixent le domaine de la loi.
 
 **Ce faisant, le législateur a indubitablement méconnu sa propre compétence.**
 
 Les articles L324-1, L324-2, L324-4 et L324-5 ont été introduits dans le Code des relations entre le public et l'administration par la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public. Cette loi n'a pas été soumise au Conseil constitutionnel avant sa promulgation. Le Conseil constitutionnel n'a donc pas pu se prononcer sur la conformité de ces dispositions à la Constitution.
 
-Si, dans le rapport qu'il a remis au Premier Ministre le 5 novembre de 2013, Monsieur Mohammed Adnène TROJETTE, magistrat de la Cour des comptes, s'est interrogé sur la constitutionnalité des redevances pour données publiques, cette question n'a pas fait l'objet d'une étude d'impact de la part du Gouvernement et n'a, en tout état de cause, pas été soumise au Conseil constitutionnel.
+Si, dans le rapport qu'il a remis au Premier Ministre le 5 novembre 2013, Monsieur Mohammed Adnène TROJETTE, magistrat de la Cour des comptes, s'est interrogé sur la constitutionnalité des redevances pour données publiques, cette question n'a pas fait l'objet d'une étude d'impact de la part du Gouvernement et n'a, en tout état de cause, pas été soumise au Conseil constitutionnel.
 
 **De ces chefs, la question prioritaire de constitutionnalité présente un caractère sérieux et nouveau et ne pourra donc qu'être transmise au Conseil constitutionnel.**
 
@@ -147,26 +147,26 @@ Le décret attaqué prévoit en son article 1er que :
 
 > « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L324-1 les services de l'État et les autres personnes mentionnées à l'article L300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions. »
 
-Le décret définit donc la « part substantielle » des « coûts liés à l'accomplissement de leurs missions de service public » ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
+Le décret définit donc la « part substantielle des coûts liés à l'accomplissement de leurs missions de service public » ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
 
-Dans son arrêt du 30 juin 1999 (décision n° 198147), le Conseil d'État a retenu le seuil minimal de 30% comme « part substantielle » des recettes autres que celles correspondant au prix payé par la personne publique dans le cadre d'une délégation de service publique attribuée à un acteur privé.
+Dans son arrêt du 30 juin 1999 (décision n° 198147), le Conseil d'État a retenu le seuil minimal de 30% comme « part substantielle » des recettes autres que celles correspondant au prix payé par la personne publique dans le cadre d'une délégation de service public attribuée à un acteur privé.
 
 Le décret attaqué régit les rémunérations des missions de service public menées par des organismes publics et non d'une délégation de service public par un acteur privé.
-Ainsi, le seuil retenu pour un organisme du secteur public ne saurait donc être inférieur à celui appliqué à un acteur privé.
+Ainsi, le seuil retenu pour un organisme du secteur public ne saurait être inférieur à celui appliqué à un acteur privé.
 
 **De ce chef, l'annulation du décret est acquise.**
 
 ## C. Non-respect des dispositions de la loi organique relative aux lois de finances
 
-Dans ses décisions du 16 novembre 1977 (décision n° 77-100 L) et 23 juin 1982 (décision n° 82-124 L), le Conseil constitutionnel a défini qu'une administration centrale ou un établissement public à caractère administratif ne pouvait établir de redevances que pour service rendu.
+Dans ses décisions du 16 novembre 1977 (décision n° 77-100 L) et 23 juin 1982 (décision n° 82-124 L), le Conseil constitutionnel a indiqué qu'une administration centrale ou un établissement public à caractère administratif ne pouvait établir de redevances que pour service rendu.
 
 Or le décret attaqué prévoit en son premier article que :
 
 > « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L324-1 les services de l'État et les autres personnes mentionnées à l'article L300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions ».
 
-Le décret concerne des administrations publiques dont la mission ou, à tout le moins, l'une des missions, consiste en la mise à disposition ou la diffusion d'information publiques. Ce faisant, il autorise la création (ou le maintien en vigueur) de ressources budgétaires perçues en contrepartie de l'exercice d'une mission de service public, c'est-à-dire en contrepartie d'une charge courante du service public, en contradiction avec les dispositions législatives organiques, mais aussi de l'interprétation qu'en donne le Conseil constitutionnel.
+Le décret concerne des administrations publiques dont la mission, ou l'une des missions, consiste en la mise à disposition ou la diffusion d'informations publiques. Ce faisant, il autorise la création (ou le maintien en vigueur) de ressources budgétaires perçues en contrepartie de l'exercice d'une mission de service public, c'est-à-dire en contrepartie d'une charge courante du service public, en contradiction avec les dispositions législatives organiques, mais aussi de l'interprétation qu'en donne le Conseil constitutionnel.
 
-En effet, la jurisprudence constitutionnelle encadre fortement la procédure des fonds de concours. La décision n° 94-351 DC rappelle que les principes d'unité et d'universalité budgétaires « font obstacle à ce que des dépenses qui […] présentent […] par nature un caractère permanent ne soient pas prises en charge par le budget ou soient financées par des ressources que celui-ci ne détermine pas ». Cela s'applique aussi « aux budgets annexes, dont les dépenses d'exploitation suivent les mêmes règles que les dépenses ordinaires du budget » (Cons. const, 29 décembre 1994, décision n° 94-351 DC).
+En effet, la jurisprudence constitutionnelle encadre fortement la procédure des fonds de concours. La décision n° 94-351 DC rappelle que les principes d'unité et d'universalité budgétaires « font obstacle à ce que des dépenses qui […] présentent […] par nature un caractère permanent ne soient pas prises en charge par le budget ou soient financées par des ressources que celui-ci ne détermine pas ». Cela s'applique également « aux budgets annexes, dont les dépenses d'exploitation suivent les mêmes règles que les dépenses ordinaires du budget » (Cons. const, 29 décembre 1994, décision n° 94-351 DC).
 
 Le législateur organique a fait sienne cette interprétation de la Constitution. La loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances dispose, en son article 3, que :
 
