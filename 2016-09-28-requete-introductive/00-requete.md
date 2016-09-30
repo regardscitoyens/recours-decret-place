@@ -92,7 +92,7 @@ Or, en l'absence de publicité, tant du lieu, que des personnes présentes lors 
 
 **De ce chef déjà, l'annulation est acquise.**
 
-En outre, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de la non conformité au droit de l'union européenne, à la loi ainsi qu'à la Constitution,  des dispositions législatives que les dispositions règlementaires mettent en œuvre.
+En outre, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de la non conformité au droit de l'union européenne, à la loi ainsi qu'à la Constitution,  des dispositions législatives que les dispositions réglementaires mettent en œuvre.
 
 \newpage
 
@@ -190,7 +190,7 @@ En permettant à des administrations ayant pour mission de service public la mis
 3. **METTRE À LA CHARGE** de l'État la somme de 4096 euros sur le fondement de l'article L761-1 du code de justice administrative.
 
 Avec toutes conséquences de droit.
- 
+
 Le 28 septembre 2016, à Paris.
 
 Pour l'association **Regards Citoyens**,
