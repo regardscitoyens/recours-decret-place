@@ -1,4 +1,4 @@
-% ![](logo.png "")
+% ![](images/logo.png "")
 % **Regards Citoyens**
 % **Procès-Verbal de l'Assemblée Générale**
 
@@ -12,3 +12,8 @@ Le Conseil d'Administration donne pouvoir à chacun de ses membres pour déposer
 
 Pour le Conseil d'Administration,
 
+# 
+
+Nicolas JOYARD, administrateur\ \ \ \ \ \ \ \ \ \ \ \ ![](images/signature-njoyard.png)
+
+Tangui MORLIER, administrateur\ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-teymour.png)

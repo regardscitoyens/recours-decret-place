@@ -1,11 +1,12 @@
 MARKDOWNS=$(wildcard */*.md)
 PDFS=$(patsubst %.md,%.pdf,$(MARKDOWNS))
 JOINEDPDFS=$(patsubst %,joined-%.pdf,$(wildcard 20*))
+IMAGES=$(wildcard images/*)
 
 all: $(PDFS) pdfjoins.mk $(JOINEDPDFS)
 
-%.pdf: %.md logo.png
-	pandoc --variable=lang:french  -s -S -o $@ $<
+%.pdf: %.md $(IMAGES)
+	pandoc --variable=lang:french -s -S -o $@ $<
 
 pdfjoins.mk: $(PDFS)
 	echo -n "" > $@
