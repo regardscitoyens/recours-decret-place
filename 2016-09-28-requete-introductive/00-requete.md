@@ -1,18 +1,18 @@
-% ![](logo.png "")
+% ![](images/logo.png "")
 % **CONSEIL D'ÉTAT -- SECTION DU CONTENTIEUX**
 % **REQUÊTE INTRODUCTIVE D'INSTANCE**
 
-## Par
+**Par**
 
-L'association Regards Citoyens, association régie par la loi du 1er juillet 1901 et déclarée le 9 juin 2010 à la préfecture du Rhône (déclaration publiée au Journal Officiel de la République française n° 20100026 du 26 juin 2010), dont le siège social est chez Julien Rabier, Bâtiment A2, 17 rue Corneille à Toulouse (31100). Prise par son conseil d'administration en exercice habilité par une délibération de l'assemblée permanente en date du 28 septembre 2016 (production n° 1) prise en application des statuts (production n° 2).
+> L'association Regards Citoyens, association régie par la loi du 1er juillet 1901 et déclarée le 9 juin 2010 à la préfecture du Rhône (déclaration publiée au Journal Officiel de la République française n° 20100026 du 26 juin 2010), dont le siège social est chez Julien Rabier, Bâtiment A2, 17 rue Corneille à Toulouse (31100). Prise par son conseil d'administration en exercice habilité par une délibération de l'assemblée permanente en date du 28 septembre 2016 (production n° 1) prise en application des statuts (production n° 2).
 
-## Contre
+**Contre**
 
-Le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n° 3).
+> Le décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016 (production n° 3).
 
-**En tant que de besoin contre** le Premier Ministre, Hôtel de Matignon, 64 rue de Varenne, 75007 PARIS.
+**En tant que de besoin contre**
 
-##
+> le Premier Ministre, Hôtel de Matignon, 64 rue de Varenne, 75007 PARIS.
 
 L'association exposante défère le décret visé ci-dessus à la censure du Conseil d'État en tous les chefs qui lui font grief et en demande l'annulation par les moyens de fait et de droit ci-après exposés.
 
@@ -190,12 +190,12 @@ En permettant à des administrations ayant pour mission de service public la mis
 3. **METTRE À LA CHARGE** de l'État la somme de 4096 euros sur le fondement de l'article L761-1 du code de justice administrative.
 
 Avec toutes conséquences de droit.
-
-Le 28 septembre 2016, à Paris
+ 
+Le 28 septembre 2016, à Paris.
 
 Pour l'association **Regards Citoyens**,
 
-Le Conseil d'Administration
+Le Conseil d'Administration.
 
 \newpage
 

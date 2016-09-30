@@ -1,4 +1,4 @@
-% ![](logo.png "")
+% ![](images/logo.png "")
 % **Regards Citoyens**
 % **Procès-Verbal de l'Assemblée permanente**
 
@@ -11,3 +11,9 @@ Conformément à l'article 8, l'Assemblée a décidé de déposer une requête a
 Le Conseil d'Administration donne pouvoir à chacun de ses membres pour déposer le recours au nom de l'Association.
 
 Pour le Conseil d'Administration,
+
+# 
+
+Nicolas JOYARD, administrateur\ \ \ \ \ \ \ \ \ \ \ \ ![](images/signature-njoyard.png)
+
+Tangui MORLIER, administrateur\ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-teymour.png)
