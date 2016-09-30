@@ -197,6 +197,10 @@ En permettant à des administrations ayant pour mission de service public la mis
 
 Avec toutes conséquences de droit.
 
+\ \linebreak[4]
+\ \linebreak[4]
+\ \linebreak[4]
+
 Le 28 septembre 2016, à Paris.
 
 Pour l'association **Regards Citoyens**,

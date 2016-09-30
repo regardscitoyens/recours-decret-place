@@ -12,7 +12,9 @@ Le Conseil d'Administration donne pouvoir à chacun de ses membres pour déposer
 
 Pour le Conseil d'Administration,
 
-# 
+\ \linebreak[4]
+\ \linebreak[4]
+\ \linebreak[4]
 
 Nicolas JOYARD, administrateur\ \ \ \ \ \ \ \ \ \ \ \ ![](images/signature-njoyard.png)
 
