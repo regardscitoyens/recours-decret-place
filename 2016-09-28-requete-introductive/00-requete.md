@@ -88,11 +88,11 @@ Or, faute de publicité de l'avis du COEPIA ainsi que du procès-verbal de déli
 
 De plus, dans sa décision n° 361962 (section du contentieux du 22 juillet 2015), le Conseil d'État précise le cadre d'application du déport en indiquant que des éléments contextuels, comme la « simple présence pendant les délibérations » de membres en situation de conflits d'intérêts, peuvent « influencer les positions prises par d'autres membres de l'instance ».
 
-Or, en l'absence de publicité tant du lieu que des personnes présentes lors de la délibération, il ne saurait être établi que l'avis respecte les règles édictées par le Conseil d'État.
+Or, en l'absence de publicité, tant du lieu, que des personnes présentes lors de la délibération, il ne saurait être établi que l'avis respecte les règles édictées par le Conseil d'État.
 
 **De ce chef déjà, l'annulation est acquise.**
 
-En troisième lieu, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de l'inconventionnalité des dispositions législatives que les dispositions règlementaires mettent en œuvre.
+En troisième lieu, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de l'inconventionnalité des dispositions législatives que les dispositions réglementaires mettent en œuvre.
 
 \newpage
 
