@@ -126,7 +126,7 @@ En autorisant les établissements publics à caractère administratif à établi
 
 Les articles L324-1, L324-2, L324-4 et L324-5 ont été introduits dans le Code des relations entre le public et l'administration par la loi n° 2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public. Cette loi n'a pas été soumise au Conseil constitutionnel avant sa promulgation. Le Conseil constitutionnel n'a donc pas pu se prononcer sur la conformité de ces dispositions à la Constitution.
 
-Si, dans le rapport qu'il a remis au Premier Ministre le 5 novembre de 2013, Monsieur Mohammed Adnène TROJETTE, magistrat de la Cour des comptes, s'est interrogé sur la constitutionnalité des redevances pour données publiques, cette question n'a pas fait l'objet d'une étude d'impact de la part du Gouvernement et n'a, en tout état de cause, pas été soumise au Conseil constitutionnel.
+Si, dans le rapport qu'il a remis au Premier Ministre le 5 novembre 2013, Monsieur Mohammed Adnène TROJETTE, magistrat de la Cour des comptes, s'est interrogé sur la constitutionnalité des redevances pour données publiques, cette question n'a pas fait l'objet d'une étude d'impact de la part du Gouvernement et n'a, en tout état de cause, pas été soumise au Conseil constitutionnel.
 
 **De ces chefs, la question prioritaire de constitutionnalité présente un caractère sérieux et nouveau et ne pourra donc qu'être transmise au Conseil constitutionnel.**
 
@@ -147,12 +147,12 @@ Le décret attaqué prévoit en son article 1er que :
 
 > « Sont seuls autorisés à établir des redevances de réutilisation en application de l'article L324-1 les services de l'État et les autres personnes mentionnées à l'article L300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques, lorsque la couverture des coûts liés à cette activité principale est assurée à moins de 75 % par des recettes fiscales, des dotations ou des subventions. »
 
-Le décret définit donc la « part substantielle » des « coûts liés à l'accomplissement de leurs missions de service public » ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
+Le décret définit donc la « part substantielle des coûts liés à l'accomplissement de leurs missions de service public » ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
 
-Dans son arrêt du 30 juin 1999 (décision n° 198147), le Conseil d'État a retenu le seuil minimal de 30% comme « part substantielle » des recettes autres que celles correspondant au prix payé par la personne publique dans le cadre d'une délégation de service publique attribuée à un acteur privé.
+Dans son arrêt du 30 juin 1999 (décision n° 198147), le Conseil d'État a retenu le seuil minimal de 30% comme « part substantielle » des recettes autres que celles correspondant au prix payé par la personne publique dans le cadre d'une délégation de service public attribuée à un acteur privé.
 
 Le décret attaqué régit les rémunérations des missions de service public menées par des organismes publics et non d'une délégation de service public par un acteur privé.
-Ainsi, le seuil retenu pour un organisme du secteur public ne saurait donc être inférieur à celui appliqué à un acteur privé.
+Ainsi, le seuil retenu pour un organisme du secteur public ne saurait être inférieur à celui appliqué à un acteur privé.
 
 **De ce chef, l'annulation du décret est acquise.**
 
