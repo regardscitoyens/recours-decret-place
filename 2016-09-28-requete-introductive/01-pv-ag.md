@@ -1,6 +1,6 @@
 % ![](logo.png "")
 % **Regards Citoyens**
-% **Procès-Verbal de l'Assemblée Générale**
+% **Procès-Verbal de l'Assemblée permanente**
 
 ### Paris, le 28 septembre 2016
 
@@ -11,4 +11,3 @@ Conformément à l'article 8, l'Assemblée a décidé de déposer une requête a
 Le Conseil d'Administration donne pouvoir à chacun de ses membres pour déposer le recours au nom de l'Association.
 
 Pour le Conseil d'Administration,
-

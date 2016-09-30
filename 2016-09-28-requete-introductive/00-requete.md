@@ -4,7 +4,7 @@
 
 ## Par
 
-L'association Regards Citoyens, association régie par la loi du 1er juillet 1901 et déclarée le 9 juin 2010 à la préfecture du Rhône (déclaration publiée au Journal Officiel de la République française n° 20100026 du 26 juin 2010), dont le siège social est chez Julien Rabier, Bâtiment A2, 17 rue Corneille à Toulouse (31100). Prise par son conseil d'administration en exercice habilité par une délibération de l'assemblée générale en date du 28 septembre 2016 (production n° 1) prise en application des statuts (production n° 2).
+L'association Regards Citoyens, association régie par la loi du 1er juillet 1901 et déclarée le 9 juin 2010 à la préfecture du Rhône (déclaration publiée au Journal Officiel de la République française n° 20100026 du 26 juin 2010), dont le siège social est chez Julien Rabier, Bâtiment A2, 17 rue Corneille à Toulouse (31100). Prise par son conseil d'administration en exercice habilité par une délibération de l'assemblée permanente en date du 28 septembre 2016 (production n° 1) prise en application des statuts (production n° 2).
 
 ## Contre
 
@@ -46,7 +46,7 @@ L'association Regards Citoyens est recevable à solliciter l'annulation des disp
 Ces mesures d'application affectent directement les modalités de libre accès et de réutilisation par les citoyens des informations du secteur public. C'est donc en parfaite conformité avec ses missions statutaires (production n° 2) que l'association introduit ce recours :
 
 > « Cette association a pour objet de renforcer l'éducation et l'engagement civique en promouvant par la pratique le libre accès aux données publiques et leur réutilisation, notamment pour des usages citoyens ou de valorisation des institutions. L'association entend notamment réaliser les objectifs suivants :
-> 
+>
 > […]
 >
 > - promouvoir les usages et les pratiques liées à l'utilisation et la réutilisation de données publiques ;
@@ -92,7 +92,7 @@ Or, en l'absence de publicité, tant du lieu, que des personnes présentes lors 
 
 **De ce chef déjà, l'annulation est acquise.**
 
-En troisième lieu, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de l'inconventionnalité des dispositions législatives que les dispositions réglementaires mettent en œuvre.
+En outre, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de la non conformité au droit de l'union européenne, à la loi ainsi qu'à la Constitution,  des dispositions législatives que les dispositions règlementaires mettent en œuvre.
 
 \newpage
 
@@ -149,10 +149,7 @@ Le décret attaqué prévoit en son article 1er que :
 
 Le décret définit donc la « part substantielle des coûts liés à l'accomplissement de leurs missions de service public » ou des « coûts afférents à leur collecte, à leur production, à leur reproduction et à leur diffusion » à 25% des recettes générées.
 
-Dans son arrêt du 30 juin 1999 (décision n° 198147), le Conseil d'État a retenu le seuil minimal de 30% comme « part substantielle » des recettes autres que celles correspondant au prix payé par la personne publique dans le cadre d'une délégation de service public attribuée à un acteur privé.
-
-Le décret attaqué régit les rémunérations des missions de service public menées par des organismes publics et non d'une délégation de service public par un acteur privé.
-Ainsi, le seuil retenu pour un organisme du secteur public ne saurait être inférieur à celui appliqué à un acteur privé.
+En droit européen comme national, rien ne justifie qu'un tel seuil constitue une « part substantielle ».
 
 **De ce chef, l'annulation du décret est acquise.**
 
@@ -204,7 +201,7 @@ Le Conseil d'Administration
 
 # Pièces produites
 
-1. Délibération de l'assemblée générale de l'association Regards Citoyens en date du 28 septembre 2016.
+1. Délibération de l'assemblée permanente de l'association Regards Citoyens en date du 28 septembre 2016.
 2. Statuts de l'association Regards Citoyens.
 3. Décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016.
 4. La présente requête.
