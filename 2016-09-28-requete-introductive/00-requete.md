@@ -94,6 +94,8 @@ Or, en l'absence de publicité, tant du lieu, que des personnes présentes lors 
 
 **De ce chef déjà, l'annulation est acquise.**
 
+#####
+
 En outre, les dispositions du décret contesté sont illégales en l'absence de toute base juridique qui en permette l'édiction, compte tenu de la non conformité au droit de l'union européenne, à la loi ainsi qu'à la Constitution,  des dispositions législatives que les dispositions réglementaires mettent en œuvre.
 
 \newpage
