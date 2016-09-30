@@ -82,7 +82,7 @@ En l'espèce, il ne fait aucun doute que le décret attaqué a bien fait l'objet
 
 Le décret n° 2015-464 du 23 avril 2015 portant renouvellement du conseil d'orientation de l'édition publique et de l'information administrative fait du COEPIA une commission administrative à caractère consultatif. Son fonctionnement, notamment lorsqu'il délibère à propos d'un avis, est donc régi par le chapitre III du titre III du livre Ier du Code des relations entre le public et l'administration.
 
-Ces règles incluent notamment l'article R133-12 qui prévoit l'interdiction qui est faite aux membres d'une commission de prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire qui en est l'objet.
+Ces règles incluent notamment l'article R133-12 qui prévoit l'interdiction pour les membres d'une commission de « prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire qui en est l'objet ».
 
 Or, faute de publicité de l'avis du COEPIA ainsi que du procès-verbal de délibération et des déclarations d'intérêts des membres du COEPIA, il ne saurait être établi que les obligations de déport prévues à l'article R133-12 ont été respectées.
 
