@@ -120,7 +120,7 @@ L'article L324-2 prévoit que « des bibliothèques, y compris des bibliothèque
 
 Parmi les administrations visées à l'article L324-1 et les organisations visées à l'article L324-2, il existe des établissements publics à caractères administratif (INSEE, SHOM, Bibliothèque nationale de France…).
 
-En autorisant les établissements publics à caractère administratif à établir des ressources budgétaires (au sens de l'article 3 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances) appelées « redevances de réutilisation des informations du secteur public » et en autorisant ces « redevances » à couvrir des missions de service public, le chapitre IV du titre II du livre III méconnait les dispositions de l'article 34 de la Constitution, qui fixent le domaine de la loi.
+En autorisant les établissements publics à caractère administratif à établir des ressources budgétaires (au sens de l'article 3 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances) appelées « redevances de réutilisation des informations du secteur public » et en autorisant ces « redevances » à couvrir des missions de service public, le chapitre IV du titre II du livre III méconnait les dispositions de l'article 34 de la Constitution qui fixent le domaine de la loi.
 
 **Ce faisant, le législateur a indubitablement méconnu sa propre compétence.**
 
