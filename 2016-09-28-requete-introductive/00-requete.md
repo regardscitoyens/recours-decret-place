@@ -140,6 +140,8 @@ Dans son article 6, la directive 2003/98/CE du Parlement européen et du Conseil
 
 > « 1. Lorsque la réutilisation de documents est soumise à des redevances, lesdites redevances sont limitées aux coûts marginaux de reproduction, de mise à disposition et de diffusion. »
 
+#####
+
 Cependant, cette règle ne s'applique pas :
 
 - aux « organismes du secteur public qui sont tenus de générer des recettes destinées à couvrir une part substantielle des coûts liés à l'accomplissement de leurs missions de service public »,
@@ -207,3 +209,4 @@ Le Conseil d'Administration.
 2. Statuts de l'association Regards Citoyens.
 3. Décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016.
 4. La présente requête.
+5. Copie du timbre fiscal dématérialisé
