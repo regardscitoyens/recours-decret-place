@@ -118,7 +118,7 @@ L'article L324-1 prévoit que des administrations « peuvent établir une redeva
 
 L'article L324-2 prévoit que « des bibliothèques, y compris des bibliothèques universitaires, des musées et des archives » peuvent établir des redevances « sur des informations issues des opérations de numérisation des fonds et des collections ».
 
-Parmi les administrations visées par l'article L324-1 et les organisations vidées par l'article L324-2, il existe des établissements publics à caractères administratif (INSEE, SHOM, Bibliothèque nationale de France…).
+Parmi les administrations visées à l'article L324-1 et les organisations visées à l'article L324-2, il existe des établissements publics à caractères administratif (INSEE, SHOM, Bibliothèque nationale de France…).
 
 En autorisant les établissements publics à caractère administratif à établir des ressources budgétaires (au sens de l'article 3 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances) appelées « redevances de réutilisation des informations du secteur public » et en autorisant ces « redevances » à couvrir des missions de service public, le chapitre IV du titre II du livre III méconnait les dispositions de l'article 34 de la Constitution, qui fixent le domaine de la loi.
 
