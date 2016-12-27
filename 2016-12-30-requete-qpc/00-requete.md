@@ -2,20 +2,22 @@
 % **CONSEIL D'ÉTAT -- SECTION DU CONTENTIEUX**
 % **QUESTION PRIORITAIRE DE CONSTITUTIONNALITE**
 
-Tendant à faire constater qu’en édictant les dispositions des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 du code des relations entre le public et l'administration, le législateur a méconnu sa propre compétence en confiant au Gouvernement la responsabilité d'instaurer par voie réglementaire d'une part des restrictions aux droits et libertés que la Constitution garantit, notamment le droit à l'information, le droit d'accès aux documents administratifs et le principe d'égalité des citoyens devant les charges publiques, et d'autre part des recettes ayant le caractère d'une taxe ou imposition de toute nature.
+\ \linebreak[4]
+\ \linebreak[4]
 
 **Pour\ :**
 
 > L'association Regards Citoyens, association régie par la loi du 1er\ juillet\ 1901 et déclarée le 9\ juin\ 2010 à la préfecture du Rhône (déclaration publiée au Journal Officiel de la République française n°\ 20100026 du 26\ juin\ 2010), dont le siège social est domicilié chez Julien Rabier, Bâtiment A2, 17 rue Corneille à Toulouse (31100).
 
-**Contre\ :**
-Le décret n°\ 2016-1036 du 28 juillet 2016 «\ relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public\ » publié au Journal Officiel de la République française n°\ 0176 du 30 juillet 2016 (production n°\ 3).
+\ \linebreak[4]
+\ \linebreak[4]
+\ \linebreak[4]
 
-**En tant que de besoin contre\ :**
+\ \linebreak[4]
+\ \linebreak[4]
+\ \linebreak[4]
 
-Le Premier Ministre, Hôtel de Matignon, 64 rue de Varenne, 75007 PARIS.
-
-**À l'appui de la requête n°\ 403.916**
+>>>> **À l'appui de la requête n°\ 403.916**
 
 \newpage
 
@@ -136,7 +138,7 @@ En autorisant le pouvoir réglementaire à édicter des redevances de réutilisa
 
 ### B) Incompétence négative par manque de précision sur les administrations visées
 
-L'article 5 de la loi n°2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101), codifié à l'article [L.\ 324-4](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219078&cidTexte=LEGITEXT000031366350&dateTexte=20161213?) renvoie au pouvoir réglementaire le soin de définir les montants et les modalités de fixation de ces redevances.
+L'[article 5 de la loi n°2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101), codifié à l'article [L.\ 324-4](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219078&cidTexte=LEGITEXT000031366350&dateTexte=20161213?) renvoie au pouvoir réglementaire le soin de définir les montants et les modalités de fixation de ces redevances.
 
 Cet article dispose en effet que\ :
 
@@ -164,7 +166,7 @@ En effet, en droit, en vertu de l’article 34 de la Constitution, mais aussi de
 
 Surtout, dans cette même décision, le juge constitutionnel a également précisé que\ :
 
-> « [Le législateur] doit en effet prémunir les sujets de droit contre une interprétation contraire à la Constitution ou contre le risque d'arbitraire, sans reporter sur des autorités administratives ou juridictionnelles le soin de fixer des règles dont la détermination n'a été confiée par la Constitution qu'à la loi » (décision n°\ 2006-540 DC du 27\ juillet\ 2006](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2006/2006-540-dc/decision-n-2006-540-dc-du-27-juillet-2006.1011.html)).
+> « [Le législateur] doit en effet prémunir les sujets de droit contre une interprétation contraire à la Constitution ou contre le risque d'arbitraire, sans reporter sur des autorités administratives ou juridictionnelles le soin de fixer des règles dont la détermination n'a été confiée par la Constitution qu'à la loi » ([décision n°\ 2006-540 DC du 27\ juillet\ 2006](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2006/2006-540-dc/decision-n-2006-540-dc-du-27-juillet-2006.1011.html)).
 
 D'autre part, en ne définissant pas de manière précise de « catégories d'administrations » et en laissant au pouvoir réglementaire blanc-seing pour choisir de manière arbitraire les « natures des administrations » et les « conditions de leur financement » compatibles avec l'établissement de redevances, le législateur a violé l'objectif de valeur constitutionnelle d'intelligibilité et d'accessibilité de la loi.
 
@@ -182,7 +184,7 @@ Tout d'abord, il y a lieu de rappeler que l'article 15 de la Déclaration des dr
 
 La loi n°78-753 du 17 juillet 1978 portant diverses mesures d’amélioration des relations entre l’administration et le public et diverses dispositions d’ordre administratif, social et fiscal, codifiée dans le code des relations entre le public et l'administration a concrétisé ce principe en reconnaissant un droit d’accès aux documents administratifs.
 
-Ainsi, aux termes des dispositions de l'article L.\ 300-1, 
+Ainsi, aux termes des dispositions de l'article L.\ 300-1\ :
 
 > **Article L.\ 300-1**
 > 
@@ -289,6 +291,8 @@ Il en va de même pour la condition tirée du caractère nouveau de la question.
 En effet, si, dans le rapport qu'il a remis au Premier Ministre le 5\ novembre\ 2013, Monsieur Mohammed Adnène Trojette, magistrat de la Cour des comptes, s'est interrogé sur la constitutionnalité des redevances pour données publiques, cette question n'a pas fait l'objet d'une étude d'impact de la part du Gouvernement et n'a, en tout état de cause, pas été soumise au Conseil constitutionnel.
 
 **À ce titre, la condition préalable de caractère nouveau est donc, elle aussi, parfaitement remplie.**
+
+\newpage
 
 Il résulte de l’ensemble des considérations précédemment énoncées que cette question prioritaire de constitutionnalité présente non seulement la condition d'applicabilité au litige et d’absence de déclaration préalable de conformité, mais qu'elle présente également indéniablement les caractères sérieux et nouveaux nécessaires.
 
