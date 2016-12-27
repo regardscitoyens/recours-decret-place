@@ -43,9 +43,9 @@ Le 30\ septembre\ 2016, le greffe du Secrétariat de la Section du Contentieux d
 
 # II. Intérêt à agir
 
-L'association Regards Citoyens est une association loi 1901, qui existe depuis 2010, et exerce son activité depuis 2009, ce qui en fait la plus ancienne association défendant l'ouverture et la réutilisation des données publiques en France. Elle est administrée de manière collective et entièrement bénévole.
+L'association Regards Citoyens est une association loi 1901, qui existe depuis 2010, et exerce son activité depuis 2009, ce qui en fait la plus ancienne association défendant l'ouverture et la réutilisation des données publiques en France. Elle est administrée de manière collective et entièrement bénévole. 
 
-Depuis 2009 l'association Regards Citoyens a activement participé à la réutilisation des informations publiques. L'association requérante a en effet pu trouver des usages nouveaux aux informations publiées au Journal Officiel ou sur les sites des assemblées parlementaires pour valoriser ces activités à travers leurs sites «\ NosDéputés.fr \ », «\ NosSénateurs.fr \ » ou «\ LaFabriqueDeLaLoi.fr\ ». L'association a également oeuvré à rendre les données de la « réserve parlementaire » ou celles issues des déclarations d'intérêts déposées par les parlementaires auprès de la Haute Autorité de la Transparence de la vie publique réutilisables par le plus grand nombre. Par ce travail, ces informations publiques ont pu être largement réutilisés par des journalistes, des associations ou des citoyens.
+Depuis 2009 l'association Regards Citoyens a activement participé à la réutilisation des informations publiques. L'association requérante a en effet pu trouver des usages nouveaux aux informations publiées au Journal Officiel ou sur les sites des assemblées parlementaires pour valoriser ces activités à travers leurs sites «\ NosDéputés.fr\ », «\ NosSénateurs.fr\ » ou «\ LaFabriqueDeLaLoi.fr\ ». L'association a également oeuvré à rendre les données de la « réserve parlementaire » ou celles issues des déclarations d'intérêts déposées par les parlementaires auprès de la Haute Autorité de la Transparence de la vie publique réutilisables par le plus grand nombre. Par ce travail, ces informations publiques ont pu être largement réutilisés par des journalistes, des associations ou des citoyens.
 
 C'est en parfaite conformité avec ses missions statutaires (production n°\ 2) que l'association introduit ce recours puisque ceux-ci précisent\ :
 
@@ -67,50 +67,71 @@ L'association Regards Citoyens introduit donc la présente requête non seulemen
 
 \newpage
 
-
 # III. Introduction
 
 Le droit d'accès et de réutilisation des données publiques trouve ses racines juridiques dans la Déclaration des droits de l’homme et du citoyen de 1789, dont l'article 15 prévoit que «  La Société a le droit de demander compte à tout Agent public de son administration ».
 
 Le régime juridique transversal ouvrant à toute personne, un accès de plein droit aux documents détenus par des personnes publiques ou par des organismes privés chargés d'une mission de service public a été introduit/consacré par la loi n°\ 78-753 du 17\ juillet\ 1978 portant diverses mesures d’amélioration des relations entre l’administration et le public et diverses dispositions d’ordre administratif, social et fiscal.
 
-Depuis les années 2000, ce droit a été reconnu consacré comme une liberté publique par le Conseil d'État ([décision n°\ 228830 du 29\ avril\ 2002](https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000008112306) et par le Conseil constitutionnel ([décision n°\ 2014-5 LOM du 23 octobre 2014](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2014/2014-5-lom/decision-n-2014-5-lom-du-23-octobre-2014.142541.html). Par ailleurs, le droit de l'Union européenne lui a accordé une place particulière à l'article 42 de la
-Charte des droits fondamentaux de l'Union européenne, lui accordant ainsi le statut de droit fondamental ((http://fra.europa.eu/fr/charterpedia/article/42-droit-dacces-aux-documents)).
+Depuis les années 2000, ce droit a été reconnu consacré comme une liberté publique par le Conseil d'État ([décision n°\ 228830 du 29\ avril\ 2002](https://www.legifrance.gouv.fr/affichJuriAdmin.do?idTexte=CETATEXT000008112306) et par le Conseil constitutionnel ([décision n°\ 2014-5 LOM du 23 octobre 2014](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2014/2014-5-lom/decision-n-2014-5-lom-du-23-octobre-2014.142541.html). Par ailleurs, le droit de l'Union européenne lui a accordé une place particulière à l'article 42 de la Charte des droits fondamentaux de l'Union européenne, lui accordant ainsi le statut de droit fondamental ((http://fra.europa.eu/fr/charterpedia/article/42-droit-dacces-aux-documents)).
 
 Avec l'adoption de la [directive n°\ 2003/98/CE du 17\ novembre\ 2003](http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:02003L0098-20130717&from=FR), dite «\ directive ISP\ », concernant la réutilisation des informations du secteur public, et sa transposition par [l'ordonnance n°\ 2005-650 du 6\ juin\ 2005](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000629684&categorieLien=id), un droit d'accès aux documents administratifs dans un format numérique est introduit, ainsi que son essentiel corrolaire, un droit à la réutilisation des documents et des informations publiques est proclamé.
 
-Bien que les usages en matière de réutilisation et d'exploitation de données publiques et de documents administratifs prééxistaient à ces disposions, la modification de la loi du 17 juillet 1978 a introduit en droit français la notion «\ d'ouverture des données publiques\ », dite «\ Open Data\ ». Cette consécration ouvrait ainsi un droit de réutilisation des documents administratifs, et donc leur transmission aux citoyens dans des formats électroniques.
+Bien que les usages en matière de réutilisation et d'exploitation de données publiques et de documents administratifs prééxistaient à ces disposions, la modification de la loi du 17 juillet 1978 a introduit en droit français la notion «\ d'ouverture des données publiques\ », dite «\ Open Data\ ».
 
 En 2013, le Premier ministre a commandé à un magistrat de la cour des compte, Mohammed Adnène Trojette, un [rapport sur portant sur l’évaluation des modèles économiques des redevances sur les données publiques](http://www.modernisation.gouv.fr/laction-publique-se-transforme/en-ouvrant-les-donnees-publiques/remise-du-rapport-trojette-sur-louverture-des-donnees-publiques). Le magistrat pointait le risque de voir les redevances sur les données publiques freiner ce mouvement salutaire\ :
 
-> « les modèles économiques de ces redevances ont pour effet d'en limiter les réutilisations. Ainsi, les tarifications retenues souvent dégressives  tendent à cantonner l'accès aux acteurs établis ou ayant déterminé a  priori les usages prévus. De ce fait, les acteurs moins dotés (citoyens, étudiants, chercheurs ou jeunes pousses, par exemple) sont exclus par ces barrières à l'entrée
+> «\ les modèles économiques de ces redevances ont pour effet d'en limiter les réutilisations. Ainsi, les tarifications retenues souvent dégressives  tendent à cantonner l'accès aux acteurs établis ou ayant déterminé a  priori les usages prévus. De ce fait, les acteurs moins dotés (citoyens, étudiants, chercheurs ou jeunes pousses, par exemple) sont exclus par ces barrières à l'entrée
 >
-> « Cette situation est préjudiciable, au regard des gains attendus d'une politique d'ouverture des données publiques, dont la location est la fourniture d'un bien public, vecteur d'externalités positives. Cela est d'autant plus préjudiciable qu'il s'agit souvent de jeux de données utiles à l'exercice de la démocratie et de jeux de données à fort potentiel socio-économique tels que les données géographiques, les données météorologiques ou les données de santé. »
+> «\ Cette situation est préjudiciable, au regard des gains attendus d'une politique d'ouverture des données publiques, dont la location est la fourniture d'un bien public, vecteur d'externalités positives. Cela est d'autant plus préjudiciable qu'il s'agit souvent de jeux de données utiles à l'exercice de la démocratie et de jeux de données à fort potentiel socio-économique tels que les données géographiques, les données météorologiques ou les données de santé.\ »
 
 Dans son récent [rapport daté de décembre 2016](http://www.hatvp.fr/wordpress/wp-content/uploads/2016/12/Open-data-integrite-publique.pdf), la Haute Autorité pour la Transparence de la Vie Publique confortait cette vision\ :
 
-> « Entendu comme mouvement d’ouverture des données publiques, l’open data offre à la société civile la possibilité de constater par elle-même l’intégrité des institutions et la probité des responsables publics. »
+> «\ Entendu comme mouvement d’ouverture des données publiques, l’open data offre à la société civile la possibilité de constater par elle-même l’intégrité des institutions et la probité des responsables publics.\ »
 
-En cohérence avec ces constats nationaux,  lors de la révision de la diréctive 2003/98, l'Union européenne a souhaité réaffirmer les principes qu'elle avait poséé afin de s'assurer que les règles entre les États membres restent harmonisées. Ainsi, [la directive 2013/37/UE](http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32013L0037&from=FR?) adoptée par le Parlement européen et le Conseil le 26\ juin\ 2013 affirme dans son considérant 4\ :
+En cohérence avec ces constats nationaux, lors de la révision de la directive 2003/98, l'Union européenne a souhaité réaffirmer les principes qu'elle avait posée afin de s'assurer que les règles entre les États membres restent harmonisées. Ainsi, [la directive 2013/37/UE](http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32013L0037&from=FR?) adoptée par le Parlement européen et le Conseil le 26\ juin\ 2013 affirme dans son considérant 4\ :
 
-> « Autoriser la réutilisation de documents détenus par un organisme du secteur public apporte de la valeur ajoutée aux réutilisateurs, aux utilisateurs finaux, à la société dans son ensemble et, dans de nombreux cas, à l’organisme public lui-même, en favorisant la transparence et la responsabilité et en permettant le retour d’informations des réutilisateurs et des utilisateurs finaux, ce qui permet à l’organisme du secteur public concerné d’améliorer la qualité des informations recueillies. »
+> «\ Autoriser la réutilisation de documents détenus par un organisme du secteur public apporte de la valeur ajoutée aux réutilisateurs, aux utilisateurs finaux, à la société dans son ensemble et, dans de nombreux cas, à l’organisme public lui-même, en favorisant la transparence et la responsabilité et en permettant le retour d’informations des réutilisateurs et des utilisateurs finaux, ce qui permet à l’organisme du secteur public concerné d’améliorer la qualité des informations recueillies.\ »
 
 Ainsi, le droit relatif à l’ouverture et à réutilisation des documents administratifs et des données publiques affecte de manière directe non seulement les citoyens mais aussi les acteurs économiques qui peuvent jouer un rôle important dans la créations de services innovants et utiles, qui peuvent stimuler la croissance économique mais aussi promouvoir l’engagement social. 
 
 \newpage
 
-
 # IV. Discussion - Légalité externe
 
-À  la suite  de  la  question  prioritaire  de  constitutionnalité  déposée, par  mémoire  distinct,  dans  le  cadre  du  présent  litige,  tendant  à  faire constater l’inconstitutionnalité des dispositions des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 du code des relations du public avec l’administration, l'association exposante entend soulever des moyens complémentaires tirés de ce que les dispositions contestées du décret n°\ 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » de fondement légal dans l’hypothèse où le Conseil constitutionnel venait à déclarer ces dispositions contraires à la Constitution.
+## 0. Des dispositions déclarées contraires à la Constitution
+
+À la suite de la question prioritaire de constitutionnalité déposée, par mémoire distinct, dans le cadre du présent litige, tendant à faire constater l’inconstitutionnalité des dispositions des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 du code des relations entre le public et l'administration, l'association exposante entend soulever un moyen complémentaire tiré de ce que les dispositions contestées du décret n° 2016-1036 du 28 juillet 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public seraient privées de fondement légal dans l’hypothèse où le Conseil constitutionnel venait à déclarer ces dispositions contraires à la Constitution.
 
 Le décret attaqué est entaché d'incompétence. Il a été adopté au terme d'une procédure irrégulière, résultant de causes multiples.
+
+/!\ concurrent avec la première partie de la légalité interne 
 
 ## A. Texte publié non soumis au Conseil d'État
 
 En premier lieu, et sur la légalité externe, le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la section de l'intérieur du Conseil d'État.
 
-Faute de publicité du projet de décret soumis au Conseil d'État, il ne saurait être établi que la procédure a été régulière.
+En effet, en droit, il est constant que les projets de décrets en Conseil d'Etat doivent être soumis pour avis à la section administrative compétente en son sein, au regard du champ d'application du texte.
+
+De plus, le Gouvernement ne saurait publier un décret dans une version qui n'aurait pas été soumise à cet examen et qui ne serait pas celle finalement adoptée par le Conseil d'Etat ([décision n°\ 69186; 69.206 et 70.749, Union des grandes pharmacies de France et a., du 16\ octobre 1968\] ; cf. pour un exemple d'application positive de cette jurisprudence CE, 2 mai 1990, n° 86.662, Joannides).
+
+Si le Gouvernement n'est certes pas tenu de suivre les recommandations éventuellement formulées par le Conseil d'Etat ainsi entendu, il doit, pour autant, pleinement se plier à cette obligation de consultation, sous peine d'entacher le décret litigieux d'incompétence.
+
+En l'espèce, il ne fait aucun doute que le décret attaqué est bien un décret en Conseil d'Etat. En effet, parmi les visas de ce décret figure explicitement la mention suivante : «\ Le Conseil d'Etat (section de l'administration) entendu\ ».
+
+C'est donc en considération du principe ainsi rappelé qu'il convient de souligner qu'il appartiendra à la section du contentieux du Conseil d'Etat de s'assurer que le décret publié au Journal Officiel du 29 septembre 2015 correspond bien à la version soumise pour avis à la section de l'administration ou finalement adoptée par celle-ci.
+
+En effet, il est acquis que le texte critiqué a fait l'objet de multiples débats.
+
+De même, il ne fait aucun doute que plusieurs projets ont été préparés.
+
+De sorte que le gouvernement a nécessairement amendé son texte à plusieurs reprises.
+
+Or, faute de publicité de l'avis de la Section de l'administration du Conseil d'Etat, il ne saurait être établi que la version définitivement adoptée du décret litigieux était bien conforme au projet soumis à cette Section administrative ou au texte adopté par celle-ci.
+
+C'est la raison pour laquelle l'association exposante entend formuler le présent moyen tiré de ce que le décret contesté est entaché d'incompétence et de vice de procédure.
+
+Dès lors qu'il n'est pas établi que la version publiée du texte corresponde à la version soumise pour avis au Conseil d'Etat ou au texte adopté par la section de l'administration, ce décret ne saurait «\ être regardé comme ayant été pris en Conseil d'Etat\ », au sens de la jurisprudence précitée de la Haute juridiction (CE, 2 mai 1990, préc.).
 
 **De ce chef déjà, l'annulation du décret litigieux est acquise.**
 
@@ -126,29 +147,27 @@ En l'espèce, il ne fait aucun doute que le décret attaqué a bien fait l'objet
 
 Le décret n°\ 2015-464 du 23\ avril\ 2015 portant renouvellement du conseil d'orientation de l'édition publique et de l'information administrative fait du COEPIA une commission administrative à caractère consultatif. Son fonctionnement, notamment lorsqu'il délibère à propos d'un avis, est donc régi par le chapitre III du titre III du livre Ier du Code des relations entre le public et l'administration.
 
-Ces règles incluent notamment l'article R.\ 133-12 qui prévoit l'interdiction pour les membres d'une commission de «\ prendre part aux délibérations lorsqu'ils ont un intérêt à l'affaire qui en est l'objet\ ».
+Ces règles incluent notamment l'article R.\ 133-12 qui prévoit l'interdiction pour les membres d'une commission de «\ prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire qui en est l'objet\ ».
 
 De plus, dans sa décision n°\ 361962 (section du contentieux du 22\ juillet\ 2015), le Conseil d'État précise le cadre d'application du déport en indiquant que des éléments contextuels, comme la «\ simple présence pendant les délibérations\ » de membres en situation de conflits d'intérêts, peuvent «\ influencer les positions prises par d'autres membres de l'instance\ ».
 
-Afin de s'assurer du respect de ces règles, l'association requérante a procédé à une demande d'accès à des documents administratifs auprès du COEPIA. Dans sa réponse à cette demande, le COEPIA a notamment transmis son avis sur le décret attaqué. Aux annexes de cet avis (production n°\ 4), figure «\ la liste des personnes ayant siégé à la réunion de la formation spécialisée\ ». Parmi les personnes ayant siégé à la réunion figure notamment le nom de «\ M. Renaud Lefebre, Gérant des Éditions Francis Lefebvre, Syndicat national de l'édition (SNE)\ ».
+Afin de s'assurer du respect de ces règles, l'association requérante a procédé à une demande d'accès à des documents administratifs auprès du COEPIA. Dans sa réponse à cette demande, le COEPIA a notamment transmis son avis sur le décret attaqué. Aux annexes de cet avis (production n°\ 4), figure «\ la liste des personnes ayant siégé à la réunion de la formation spécialisée\ ». Parmi les personnes ayant siégé à la réunion figure notamment le nom de «\ M. Renaud Lefebre, Gérant des Éditions Francis Lefebvre ».
 
 ### 1. Présence de M. Renaud LEFEBVRE dans la formation spécialisée du COEPIA
 
 Monsieur Renaud LEFEBVRE est président de la société Indicator, dont la dénomination enregistrée au tribunal de commerce de Nanterre sous le n°\ 414\ 740\ 852 est «\ SOCIETE DES EDITIONS FRANCIS LEFEBVRE\ ».
 
 La société Éditions Francis Lefebvre, qui possède la société Indicator, achète des données publiques de manière régulière à la Direction de l'Information Légale et Administrative, notamment les bases de données JURICA contenant les décisions civiles des cours d'appel, qu'elle revend ensuite sous forme d'abonnements à ses clients.
-La société Indicator a réalisé en 2015 un chiffre d'affaires de 102\ 795\ 100\ € essentiellement dans le domaine de l'édition juridique, activité qui repose sur la publication et la commercialisation des données publiques législatives et de jurisprudence.
 
-Par ailleurs, la société Dalloz, membre du groupe Éditions Lefebvre Sarrut, dont fait partie la société Indicator, lors de la consultation du Projet de loi pour une République numérique, s'était [publiquement opposée](http://www.republique-numerique.fr/profile/editionsdalloz?) au libre accès aux publications scientifiques de la recherche publique et à la définition positive du domaine commun informationnel.
+La société Indicator a réalisé en 2015 un chiffre d'affaires de 102\ 795\ 100\ € essentiellement dans le domaine de l'édition juridique, activité qui repose sur la publication et la commercialisation des données publiques législatives et de jurisprudence.
 
 Le décret étudié visait non seulement la capacité pour certaines administrations de revendre des données, administrations dont certaines sont fournisseurs de la société Indicator, mais portait également sur les conditions de fonctionnement de la Direction de l'Information Légale et Administrative (DILA), administration en charge de la base JURICA.
 
-Il ne fait donc aucun doute que M. Renaud LEFEBVRE avait, en tant que président d'une entreprise cliente depuis de nombreuses années de la DILA, et acheteur de données publiques, un intérêt personnel à l'affaire qui était étudiée par le COEPIA.
+Il ne fait donc aucun doute que M. Renaud LEFEBVRE avait, en tant que président d'une entreprise cliente depuis de nombreuses années de la DILA, et acheteur de données publiques, un intérêt à l'affaire qui était étudiée par le COEPIA.
 
-En l'espèce, l'avis du COEPIA ne peut donc être considéré valide au regard des règles édictées en matière de lutte contre les conflits d'intérêts et de déport prévues à l'article R.\ 133-12 du Code des relations entre le public et l'administration. 
+En l'espèce, l'avis du COEPIA ne peut donc être considéré valide au regard des règles édictées en matière de lutte contre les conflits d'intérêts et de déport prévues à l'article R.\ 133-12 du CRPA.
 
 Le décret litigieux ne peut donc être considéré comme ayant été pris conformément aux disposition des articles L.\ 324-4 et R.\ 324-7 du Code des relations entre le public et l'administration.
-
 
 **De ce chef également, l'annulation du décret litigieux est acquise.**
 
@@ -233,7 +252,7 @@ En droit européen comme national, rien ne justifie qu'un tel seuil constitue un
 > «\ Les ressources budgétaires de l'État comprennent\ : […] 2° […] les rémunérations des services rendus par lui\ ».
 
 Le législateur organique s'attribue par ailleurs la compétence d'apprécier ultimement la conformité de telles ressources édictées par le pouvoir réglementaire puisque l'[article 4](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000006321022&cidTexte=LEGITEXT000005631294&dateTexte=20161222) de la même loi organique précise en effet que\ :
-    
+
 > «\ La rémunération de services rendus par l'État peut être établie et perçue sur la base de décrets en Conseil d'État pris sur le rapport du ministre chargé des finances et du ministre intéressé. Ces décrets deviennent caducs en l'absence d'une ratification dans la plus prochaine loi de finances afférente à l'année concernée.\ »
 
 Ainsi, pour être considérées commes conformes à la loi organique, les redevances pour service rendus doivent en tout été de cause être ratifiées dans la plus prochaine loi de finances.
@@ -248,17 +267,12 @@ Or le décret attaqué prévoit en son premier article que\ :
 
 Ainsi, le décret concerne des administrations publiques dont la mission ou au moins l'une des missions consiste en la mise à disposition ou la diffusion d'informations publiques. Ce faisant, le décret autorise malgré tout la création, ou le maintien en vigueur, de ressources budgétaires perçues en contrepartie de l'exercice d'une mission de service public. En effet, ce décret permet à ces administrations publiques de financer une charge courante du service public par des redevances, étant par nature des charges non récurentes. Ces dispositions sont en contradiction directe avec les dispositions législatives organiques, mais aussi avec l'interprétation qu'en a donné le Conseil constitutionnel.
 
-En tout état de cause, les redevances concernées, lorsqu'elles existent déjà, n'ont pas toutes été établies par décret en Conseil d'État et, lorsqu'elles l'ont été, toutes n'ont pas été ratifiées dans la plus prochaine loi de finances.
-
 En permettant à des administrations ayant pour mission de service public la mise à disposition ou la diffusion d'informations publiques d'établir des redevances pour ces même missions, le gouvernement a ainsi méconnu les articles 3 et 4 de la loi organique relative aux lois de finances.
 
 **De ce chef également, l'annulation du décret litigieux est acquise.**
 
 
-## D. Pas de liste de catégorie d'administration
-Ici encore je propose de réorganiser cette partie.
-
-    Proposition n°1:
+## D. Abscence de liste de catégorie d'administration
 
 L'[article L.\ 324-4 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219078&cidTexte=LEGITEXT000031366350&dateTexte=20161216&) prévoit notamment que\ :
 
@@ -281,7 +295,9 @@ L'article 1er du décret prévoit notamment que\ :
 
 Ce décret prévoit ainsi deux des trois conditions requises par l'article L.\ 324-4 du code des relations entre le public et l'administration. En effet, d'une part la nature des activités est effectivement définie par la référence aux «\ services de l'Etat et les autres personnes mentionnées à l'article L.\ 300-2 dont l'activité principale consiste en la collecte, la production, la mise à disposition ou la diffusion d'informations publiques\ ». D'autre part, le décret définit «\ conditions [de] financement\ » des administrations par la «\ couverture des coûts liés à cette activité principale est assurée à moins de 75\ % par des recettes fiscales, des dotations ou des subventions\ ».
 
-En revanche, aucun élément du décret ne prévoit de «\ liste des catégories d'administration\ » et cela contrairement à ce que prévoit l'article L.\ 234-4.
+En revanche, aucun élément du décret ne fixe la «\ liste des catégories d'administration\ » et cela contrairement à ce que prévoit l'article L.\ 234-4.
+
+De plus, par la formule «\ Ce décret\ », l'article L\. 234-4 ne permet pas au pouvoir règlementaire de déléguer à un autre décret l'établissement de la «\ liste des catégories d'administration\ ».
 
 **De ce chef également, l'annulation du décret litigieux est acquise.**
 
@@ -307,4 +323,10 @@ Le Conseil d'Administration.
 
 \newpage
 
+# Pièces produites
 
+1. Délibération de l'assemblée permanente de l'association Regards Citoyens en date du 28 septembre 2016.
+2. Statuts de l'association Regards Citoyens.
+3. Décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public » publié au Journal Officiel de la République française n° 0176 du 30 juillet 2016.
+4. Annexe à l’avis du COEPIA n°2016-1 sur le décret relatif aux modalités de fixation des redevances de réutilisation d’informations publiques
+5. Convocation des membres du COEPIA à la réunion le 24 juin de la formation destinée à émettre un avis sur le décret relatif aux modalités de fixation des redevances de réutilisation d’informations publiques

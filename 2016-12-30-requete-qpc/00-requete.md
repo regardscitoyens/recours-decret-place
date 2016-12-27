@@ -12,7 +12,6 @@
 \ \linebreak[4]
 \ \linebreak[4]
 \ \linebreak[4]
-
 \ \linebreak[4]
 \ \linebreak[4]
 \ \linebreak[4]
@@ -118,6 +117,8 @@ Par essence, une mission de service public ne peut être considérée comme une 
 L'alinéa 2 de l'[article 5 de la loi n°2015-1779 du 28 décembre 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101?), codifié à l'[article L.\ 324-1 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219051&cidTexte=LEGITEXT000031366350&dateTexte=20161213?), prévoit notamment que\ :
 
 > «\ [...] les administrations mentionnées à l'article 1er peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes propres une part substantielle des coûts liés à l'accomplissement de leurs missions de service public\ ».
+
+La Conseil constitutionnel a également indiqué dans les décisions [n°\ 77-100\ L du 16\ novembre\ 1977](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1977/77-100-l/decision-n-77-100-l-du-16-novembre-1977.7551.html?) et  [n°\ 82-124\ L du 23\ juin\ 1982](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1982/82-124-l/decision-n-82-124-l-du-23-juin-1982.8026.html?), qu'une administration centrale ou un établissement public à caractère administratif ne pouvait établir de redevances que pour service rendus.
 
 Cet article vise à financer par une redevance pour services rendus les coûts liés à l'accomplissement de missions de service public par les administrations qui en sont chargées.
 
@@ -228,7 +229,7 @@ C'est le sens du principe de libre réutilisation consacré par le législateur 
 
 Ainsi, le droit de réutilisation des informations publiques ne constitue qu'une composante du droit à l'information des individus.
 
-Dans le même sens, la [directive 2013/37/UE](http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32013L0037&from=FR) concernant la réutilisation des informations du secteur public prévoit dans son considérant 4 que\ :
+Dans le même sens, la [directive 2013/37/UE](http://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX:32013L0037&from=FR&) concernant la réutilisation des informations du secteur public prévoit dans son considérant 4 que\ :
 
 > « Autoriser la réutilisation de documents détenus par un organisme du secteur public apporte de la valeur ajoutée aux réutilisateurs, aux utilisateurs finals, à la société dans son ensemble et, dans de nombreux cas, à l’organisme public lui-même, en favorisant la transparence et la responsabilité et en permettant le retour d’informations des réutilisateurs et des utilisateurs finals, ce qui permet à l’organisme du secteur public concerné d’améliorer la qualité des informations recueillies\ ».
 
@@ -300,4 +301,6 @@ De sorte qu’elle ne pourra qu’être transmise au Conseil constitutionnel.
 
 **PAR CES MOTIFS**, et tous autres à produire, déduire, suppléer, au besoin même d’office, l'exposante conclut à ce qu’il plaise au Conseil d’Etat\ :
 
-- TRANSMETTRE au Conseil constitutionnel la question prioritaire de constitutionnalité relative à la conformité des dispositions des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 du code des relations du public avec l’administration au regard des principes de séparation des pouvoirs, d'intelligibilité et d'accessibilité de la loi, d'égalité devant la loi, de droit à l'information des individus tels que résultant des articles 1er et 34 de la Constitution et des articles 6 et 13 de la Déclaration des droits de l'homme et du citoyen.
+- TRANSMETTRE au Conseil constitutionnel la question prioritaire de constitutionnalité relative à la conformité des dispositions des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 du code des relations du public avec l’administration au regard des principes de séparation des pouvoirs, d'intelligibilité et d'accessibilité de la loi, d'égalité devant la loi et devant les charges publiques, de droit à l'information des individus tels que résultant des articles 1er et 34 de la Constitution et des articles 1er, 4, 5, 6, 13, 14, 15 et 16 de la Déclaration des droits de l'homme et du citoyen.
+
+Avec toutes conséquences de droit.
