@@ -6,7 +6,7 @@ IMAGES=$(wildcard images/*)
 all: $(PDFS) pdfjoins.mk $(JOINEDPDFS)
 
 %.pdf: %.md $(IMAGES)
-	pandoc --variable=lang:french -s -S -o $@ $<
+	pandoc --variable=lang:fr-FR -s -S -o $@ $<
 
 pdfjoins.mk: $(PDFS)
 	echo -n "" > $@
