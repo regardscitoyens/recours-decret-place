@@ -27,7 +27,7 @@ Le Parlement a adopté la loi n°\ 2015-1779 du 28\ décembre\ 2015 relative à 
 
 L'article L.\ 324-4 de ce code dispose que\ :
 
-> « Les modalités de fixation de ces redevances sont fixées par décret en Conseil d'État, après avis de l'autorité compétente. Ce décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L.\ 324-1. La liste des catégories d'administrations est révisée tous les cinq ans ».
+> «\ Les modalités de fixation de ces redevances sont fixées par décret en Conseil d'État, après avis de l'autorité compétente. Ce décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L.\ 324-1. La liste des catégories d'administrations est révisée tous les cinq ans\ ».
 
 Le Premier ministre a pris les mesures d'application de ces dispositions en adoptant le décret n°\ 2016-1036 du 28\ juillet\ 2016 relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public, publié au Journal Officiel de la République française n°\ 0176 du 30\ juillet\ 2016.
 
@@ -103,7 +103,6 @@ Ainsi, le droit relatif à l’ouverture et à réutilisation des documents admi
 
 Le décret attaqué est entaché d'incompétence. Il a été adopté au terme d'une procédure irrégulière, résultant de causes multiples.
 
-
 ## A. Texte publié non soumis au Conseil d'État
 
 En premier lieu, et sur la légalité externe, le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que la version définitive du texte finalement publiée ne correspond pas à la version soumise pour avis à la section de l'intérieur du Conseil d'État.
@@ -126,12 +125,24 @@ C'est la raison pour laquelle l'association exposante entend formuler le présen
 
 Dès lors qu'il n'est pas établi que la version publiée du texte corresponde à la version soumise pour avis au Conseil d'État ou au texte adopté par la section de l'administration, ce décret ne saurait «\ être regardé comme ayant été pris en Conseil d'État\ », au sens de la jurisprudence précitée de la Haute juridiction (voir notamment\ : [décision n°\ 86.662, du 2\ mai\ 1990](https://www.legifrance.gouv.fr/affichJuriAdmin.do?oldAction=rechJuriAdmin&idTexte=CETATEXT000007794157&)).
 
-**De ce chef déjà, l'annulation du décret litigieux est acquise<!-- /soulevée/ouverte/possible.-->**
+**De ce chef déjà, l'annulation du décret litigieux est acquise**
 
-<!--/!\ je suis toujours un peu gêné de mettre "acquise" quand on dit explicitement dans le texte que c'est juste possible, suivant ce que révèleront leurs documents -->
+## B. Le COEPIA et le Conseil national d'évaluation des normes n'ont pas valablement rendu leurs avis faute d'avoir été correctement informés
+
+Le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que les commissions administratives consultées n'ont pu donner un avis valable faute, pour les membres y siégeant, de disposer d'informations complétes et précises.
+
+Il ne fait aucun doute que le décret attaqué a bien fait l'objet d'un avis du COEPIA et du Conseil national d'évaluation des normes (CNEN). En effet, parmi les visas de ce décret figurent explicitement les mentions suivantes\ : «\ Vu l'avis du conseil d'orientation de l'édition publique et de l'information administrative en date du 24\ juin\ 2016\ », «\ Vu l'avis du Conseil national d'évaluation des normes en date du 7\ juillet\ 2016\ ».
+
+Il convient de rappeler que l'[article R.\ 133-8 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000031370121&cidTexte=LEGITEXT000031366350&dateTexte=20160101&) définit les règles en matière d'envoi de documents aux membres de ces commissions.
+
+Le décret attaqué porte potentiellement sur un nombre relativement important d'administrations et sur l'origine de leurs ressources budgétaires. En conséquence, la précision des informations, tant sur les administrations visées par les dispositions proposées par le gouvernement, que sur le montant et l'origine des recettes de ces dernières, est essentielle à la formulation d'un avis valable par les commissions consultées.
+
+Or, faute de publicité des documents fournis par le gouvernement et par ces deux commissions aux membres siégeant pour délibérer, il ne saurait être établi que les membres participant aux délibérations relatives au décret attaqué ont pu délibérer de manière valable. Ce décret ne saurait donc être regardé comme ayant été pris après leurs avis.
+
+**De ce chef également, l'annulation du décret litigieux est acquise.**
 
 
-## B. Respect des règles de fonctionnement des organismes consultés
+## C. Respect des règles de fonctionnement des organismes consultés
 
 En second lieu, le décret a été adopté au terme d'une procédure irrégulière, dès lors que le conseil d'orientation de l'édition publique et de l'information administrative (COEPIA) n'a pas un fonctionnement conforme aux règles le régissant.
 
@@ -150,7 +161,7 @@ Afin de s'assurer du respect de ces règles, l'association requérante a procéd
 
 Monsieur Renaud LEFEBVRE est président de la société Indicator, dont la dénomination enregistrée au tribunal de commerce de Nanterre sous le n°\ 414\ 740\ 852 est «\ SOCIETE DES EDITIONS FRANCIS LEFEBVRE\ ».
 
-<!-- /!\ est-ce qu'on sait s'il est actionnaire majoritaire? si oui ce serait utile de le préciser je pense pour bien pointer l'intérêt personnel et pas juste structurel vu qu'en soit il est là au titre de sa position dans la branche comme Christian pour OSM -->
+<!-- /!\ est-ce qu'on sait s'il est actionnaire majoritaire? si oui ce serait utile de le préciser je pense pour bien pointer l'intérêt personnel et pas juste structurel vu qu'en soit il est là au titre de sa position dans la branche comme Christian pour OSM impossible à savoir la boite est détenue par deux entreprises Frojal (détenue partiellement par "SPIL", la holding familiale de la famille Lefebvre) et Lefebvre Sarut (boite elle même détenue partiellement par Frojal) du coup il faudrait ptet préciser dans le texte en quoi le président a un intéret perso. Christian est prez d'OSM...-->
 
 La société Éditions Francis Lefebvre, qui possède la société Indicator, achète des données publiques de manière régulière à la Direction de l'Information Légale et Administrative, notamment les bases de données JURICA contenant les décisions civiles des cours d'appel, qu'elle revend ensuite sous forme d'abonnements à ses clients.
 
@@ -158,13 +169,13 @@ La société Indicator a réalisé en 2015 un chiffre d'affaires de 102\ 795\ 10
 
 Le décret étudié visait non seulement la capacité pour certaines administrations de revendre des données, administrations dont certaines sont fournisseurs de la société Indicator, mais portait également, au II. de l'article\ 3,  sur les conditions de fonctionnement de la Direction de l'Information Légale et Administrative (DILA), administration en charge de la base JURICA.
 
-Il ne fait donc aucun doute que M. Renaud LEFEBVRE avait, en tant que président d'une entreprise cliente depuis de nombreuses années de la DILA, et acheteur de données publiques, un intérêt à l'affaire qui était étudiée par le COEPIA.
+Il ne fait donc aucun doute que M. Renaud LEFEBVRE avait, en tant que président d'une entreprise cliente depuis de nombreuses années de la DILA, et acheteuse de données publiques, un intérêt à l'affaire qui était étudiée par le COEPIA.
 
 En l'espèce, l'avis du COEPIA ne peut donc être considéré valide au regard des règles édictées en matière de lutte contre les conflits d'intérêts et de déport prévues à l'article R.\ 133-12 du code des relations entre le public et l'administration.
 
 Le décret litigieux ne peut donc être considéré comme ayant été pris conformément aux dispositions des articles L.\ 324-4 et R.\ 324-7 du code des relations entre le public et l'administration.
 
-**De ce chef, l'annulation du décret litigieux est acquise.**
+**De ce chef, l'annulation du décret litigieux est également acquise.**
 
 
 ### 2. Réunion de la formation spécialisée du COEPIA à la DILA
@@ -184,22 +195,6 @@ En l'espèce, l'avis du COEPIA ne peut donc être considéré valide au regard d
 **De ce chef également, l'annulation du décret litigieux est acquise.**
 
 
-## C. Le COEPIA et le Conseil national d'évaluation des normes n'ont pas valablement rendu leurs avis faute d'avoir été correctement informés
-
-Le décret attaqué est entaché d'incompétence et a été adopté au terme d'une procédure irrégulière, dès lors que les commissions administratives consultées n'ont pu donner un avis valable faute, pour les membres y siégeant, de disposer d'informations complétes et précises.
-
-Il ne fait aucun doute que le décret attaqué a bien fait l'objet d'un avis du COEPIA et du Conseil national d'évaluation des normes (CNEN). En effet, parmi les visas de ce décret figurent explicitement les mentions suivantes\ : «\ Vu l'avis du conseil d'orientation de l'édition publique et de l'information administrative en date du 24\ juin\ 2016\ », «\ Vu l'avis du Conseil national d'évaluation des normes en date du 7\ juillet\ 2016\ ».
-
-Il convient de rappeler que l'[article R.\ 133-8 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000031370121&cidTexte=LEGITEXT000031366350&dateTexte=20160101&) définit les règles en matière d'envoi de documents aux membres de ces commissions.
-
-Le décret attaqué porte potentiellement sur un nombre relativement important d'administrations et sur l'origine de leurs ressources budgétaires. En conséquence, la précision des informations, tant sur les administrations visées par les dispositions proposées par le gouvernement, que sur le montant et l'origine des recettes de ces dernières, est essentielle à la formulation d'un avis valable par les commissions consultées.
-
-Or, faute de publicité des documents fournis par le gouvernement et par ces deux commissions aux membres siégeant pour délibérer, il ne saurait être établi que les membres participant aux délibérations relatives au décret attaqué ont pu délibérer de manière valable. Ce décret ne saurait donc être regardé comme ayant été pris après leurs avis.
-
-**De ce chef, l'annulation est également acquise<!--/soulevée/ouverte/possible.-->**
-
-<!--/!\ celui-ci étant également seulement possible et fonction de documents à obtenir, j'aurai tendance aussi à ne pas mettre acquise, et à regrouper avec le A en inversant B et C -->
-
 \newpage
 
 
@@ -217,8 +212,6 @@ En effet, l’ensemble des dispositions de ce décret du 28\ juillet\ 2016 ont b
 Dans ces conditions, puisque les dispositions contestées du décret ont été prises en application des dispositions législatives visées par la question prioritaire de constitutionnalité, la déclaration de non conformité à la Constitution qui ne manquera pas d’intervenir privera nécessairement de tout fondement légal les dispositions règlementaires, lesquelles seront alors exposées à une inévitable annulation.
 
 **De ce chef, les dispositions contestées encourent la censure.**
-
-<!-- /!\ concurrent avec la première partie de la légalité externe  je vote pour ici -->
 
 Mais il y a plus.
 
@@ -258,8 +251,6 @@ Le législateur organique s'attribue par ailleurs la compétence d'apprécier ul
 Ainsi, pour être considérées commes conformes à la loi organique, les redevances pour service rendus doivent en tout été de cause être ratifiées dans la plus prochaine loi de finances.
 
 Le Conseil constitutionnel a également indiqué dans les décisions [n°\ 77-100\ L. du 16\ novembre\ 1977](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1977/77-100-l/decision-n-77-100-l-du-16-novembre-1977.7551.html?) et  [n°\ 82-124\ L. du 23\ juin\ 1982](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-wdepuis-1959/1982/82-124-l/decision-n-82-124-l-du-23-juin-1982.8026.html?), qu'une administration centrale ou un établissement public à caractère administratif ne pouvait établir de redevances que pour service rendus.
-
-<!-- Pourquoi ne pas utiliser ces deux décisions dans le mémoire QPC => copié/collé en l.146 dans le pad qpc -->
 
 La jurisprudence constitutionnelle encadre par ailleurs très fortement la procédure des fonds de concours. En effet, dans sa [décision n°\ 94-351\ DC du 29\ décembre\ 1994](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/1994/94-351-dc/decision-n-94-351-dc-du-29-decembre-1994.10578.html?), le Conseil constitutionnel rappelle que les principes d'unité et d'universalité budgétaires «\ font obstacle à ce que des dépenses qui […] présentent […] par nature un caractère permanent ne soient pas prises en charge par le budget ou soient financées par des ressources que celui-ci ne détermine pas\ ». Cela s'applique également «\ aux budgets annexes, dont les dépenses d'exploitation suivent les mêmes règles que les dépenses ordinaires du budget\ ».
 
@@ -304,7 +295,6 @@ Avec ce décret, le gouvernement ne règlemente donc pas sur la totalité des di
 
 **De ce chef également, l'annulation du décret litigieux est acquise.**
 
-<!-- /!\ J'ai l'impression que c'est plutôt de la légalité externe ce point D non ? -->
 
 \newpage
 
@@ -337,6 +327,3 @@ Le Conseil d'Administration.
 3. Décret n° 2016-1036 du 28 juillet 2016 « relatif au principe et aux modalités de fixation des redevances de réutilisation des informations du secteur public\ » publié au Journal Officiel de la République française n°\ 0176 du 30\ juillet\ 2016.
 4. Annexe à l’avis du COEPIA n°\ 2016-1 sur le décret relatif aux modalités de fixation des redevances de réutilisation d’informations publiques
 5. Convocation des membres du COEPIA à la réunion le 24\ juin\ 2016 de la formation destinée à émettre un avis sur le décret relatif aux modalités de fixation des redevances de réutilisation d’informations publiques
-
-
-

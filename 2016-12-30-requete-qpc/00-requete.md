@@ -109,7 +109,7 @@ A contrario, le Conseil constitutionnel considère qu'une redevance, dès lors q
 
 Le Conseil constitutionnel a précisé, dans sa [décision n°\ 82-124\ L. du 23\ juin\ 1982](http://www.conseil-constitutionnel.fr/conseil-con..4-l/decision-n-82-124-l-du-23-juin-1982.8026.html), que\ :
 
-> «\ les redevances perçues par les […] établissements publics à caractère administratif, […] destinées à assurer le financement des dépenses de toute nature qui incombent aux agences, […] ne constituent pas […] des rémunérations pour services rendus […]\ ;
+> «\ les redevances perçues par les […] établissements publics à caractère administratif, […] destinées à assurer le financement des dépenses de toute nature qui incombent aux agences, […] ne constituent pas […] des rémunérations pour services rendus […]\ »
 
 Il ressort de ces décisions que le législateur a une compétence exclusive, en vertu de l'article\ 34 de la Constitution, pour déterminer les conditions de financement des dépenses liées à l'exécution d'une mission de service public, en tant qu'imposition de toute nature.
 
