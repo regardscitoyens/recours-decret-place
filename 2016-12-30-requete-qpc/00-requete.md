@@ -57,7 +57,7 @@ En effet, l'article L.\ 324-4 renvoie explicitement à un décret en Conseil d'�
 
 > **Article L.\ 324-4**
 >
-> Les modalités de fixation des redevances mentionnées aux articles L.\ 324-1 et L.\ 324-2 sont fixées par décret en Conseil d'État, après avis de l'autorité compétente. Ce décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L.\ 324-1. La liste des catégories d'administrations est révisée tous les cinq ans\ ».
+> «\ Les modalités de fixation des redevances mentionnées aux articles L.\ 324-1 et L.\ 324-2 sont fixées par décret en Conseil d'État, après avis de l'autorité compétente. Ce décret fixe la liste des catégories d'administrations qui sont autorisées, en raison de la nature de leur activité et des conditions de leur financement, à établir des redevances en application de l'article L.\ 324-1. La liste des catégories d'administrations est révisée tous les cinq ans\ ».
 
 > **Article L.\ 324-5**
 >
@@ -109,7 +109,7 @@ A contrario, le Conseil constitutionnel considère qu'une redevance, dès lors q
 
 Le Conseil constitutionnel a précisé, dans sa [décision n°\ 82-124\ L. du 23\ juin\ 1982](http://www.conseil-constitutionnel.fr/conseil-con..4-l/decision-n-82-124-l-du-23-juin-1982.8026.html), que\ :
 
-> «\ les redevances perçues par les […] établissements publics à caractère administratif, […] destinées à assurer le financement des dépenses de toute nature qui incombent aux agences, […] ne constituent pas […] des rémunérations pour services rendus […]\ »
+> «\ les redevances perçues par les […] établissements publics à caractère administratif, […] destinées à assurer le financement des dépenses de toute nature qui incombent aux agences, […] ne constituent pas […] des rémunérations pour services rendus […]\ ».
 
 Il ressort de ces décisions que le législateur a une compétence exclusive, en vertu de l'article\ 34 de la Constitution, pour déterminer les conditions de financement des dépenses liées à l'exécution d'une mission de service public, en tant qu'imposition de toute nature.
 
@@ -119,7 +119,7 @@ Il ressort de ces décisions que le législateur a une compétence exclusive, en
 
 Cet article vise ainsi à financer par une redevance les coûts liés à l'accomplissement de missions de service public par les administrations qui en sont chargées.
 
-Dans ces conditions, il ne fait aucun doute que le législateur a méconnu sa compétence et violé les dispositions de l'article\ 34 de la Constitution en déléguant au pouvoir réglementaire la possibilité d'instaurer des redevances destinées à financer des dépenses de toute nature relevant de l'accomplissement normal des missions de service public.
+Dans ces conditions, il ne fait aucun doute que le législateur a méconnu sa compétence et violé les dispositions de l'article\ 34 de la Constitution en déléguant au pouvoir réglementaire la possibilité d'instaurer des prétendues redevances, devant être qualifiées d'imposition de toute nature, destinées à financer des dépenses de toute nature relevant de l'accomplissement normal des missions de service public.
 
 **Par ces atteintes aux principes constitutionnels, l'invalidation des dispositions législatives contestées est encourue.**
 
@@ -128,7 +128,7 @@ Dans ces conditions, il ne fait aucun doute que le législateur a méconnu sa co
 
 En premier lieu, il y a lieu de rappeler d'emblée que le juge constitutionnel a estimé dans une [décision n°\ 2010-5\ QPC du 18\ juin\ 2010](http://www.conseil-constitutionnel.fr/decision/2010/2010-5-qpc/decision-n-2010-5-qpc-du-18-juin-2010.48459.html) que le grief tiré de «\ l'incompétence négative\ » pouvait être invoqué à l'appui d'un recours dès lors que le législateur a méconnu sa propre compétence «\ dans le cas où est affecté un droit ou une liberté que la Constitution garantit\ ».
 
-**En droit,** en vertu de l’article 34 de la Constitution, mais aussi de «\ l'objectif de valeur constitutionnelle d'intelligibilité et d'accessibilité de la loi, qui découle des articles 4, 5, 6 et 16 de la Déclaration des droits de l'homme et du citoyen de 1789\ », le Conseil constitutionnel considère dans [sa décision n°\ 2006-540 DC du 27\ juillet\ 2006](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2006/2006-540-dc/decision-n-2006-540-dc-du-27-juillet-2006.1011.html) et notamment dans son considérant 9, que pour que le législateur puisse être regardé comme ayant pleinement exercé sa compétence, encore faut-il que celui-ci «\ adopte des dispositions suffisamment précises et des formules non équivoques.\ »
+**En droit,** en vertu de l’article 34 de la Constitution, mais aussi de «\ l'objectif de valeur constitutionnelle d'intelligibilité et d'accessibilité de la loi, qui découle des articles 4, 5, 6 et 16 de la Déclaration des droits de l'homme et du citoyen de 1789\ », le Conseil constitutionnel considère dans [sa décision n°\ 2006-540 DC du 27\ juillet\ 2006](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2006/2006-540-dc/decision-n-2006-540-dc-du-27-juillet-2006.1011.html) et notamment dans son considérant 9, que pour que le législateur puisse être regardé comme ayant pleinement exercé sa compétence, encore faut-il que celui-ci «\ adopte des dispositions suffisamment précises et des formules non équivoques\ ».
 
 Surtout, dans cette même décision, le juge constitutionnel précise que\ :
 
@@ -146,7 +146,7 @@ Cet article dispose en effet que\ :
 
 Cet article renvoie ainsi au pouvoir réglementaire le soin de fixer une liste des catégories d'administrations fondées sur la nature de leur activité ainsi que les conditions de leur financement. Le législateur n'a pas jugé nécessaire de décrire dans cette disposition les natures d'activité ou les modes de financements qui permettraient au pouvoir réglementaire d'évaluer les conditions permettant de figurer ou non aux liste des catégories d'administrations autorisées.
 
-À l'[article R.\ 324-4-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000032951699&dateTexte=20161213), le pouvoir réglementaire a choisi de manière arbitraire, comme conditions de financement des administrations, le seuil de financement public de 75\ %, et, comme nature d'activité, les administrations ayant pour mission de service public principale de collecter, produire, mettre à disposition ou diffuser des information publiques.
+À l'[article R.\ 324-4-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000032951699&dateTexte=20161213&), le pouvoir réglementaire a choisi de manière discrétionnaire, comme conditions de financement des administrations, le seuil de financement public de 75\ %, et, comme nature d'activité, de manière tout aussi discrétionnaire les administrations ayant pour mission de service public principale de collecter, produire, mettre à disposition ou diffuser des information publiques.
 
 En revanche, faute de définition précise, le pouvoir réglementaire n'a pas publié de «\ liste des catégories d'administrations\ ».
 
@@ -156,7 +156,7 @@ D'une part, en ne précisant pas limitativement les données dont la réutilisat
 
 D'autre part, en ne définissant pas de manière précise de «\ catégories d'administrations\ » et en laissant au pouvoir réglementaire blanc-seing pour déterminer les «\ natures des administrations\ » et les «\ conditions de leur financement\ » compatibles avec l'établissement de redevances, le législateur a violé l'objectif de valeur constitutionnelle d'intelligibilité et d'accessibilité de la loi.
 
-**Derechef, l'invalidation des dispositions législatives contestées est encourue.**
+**Par conséquent, la censure des dispositions législatives contestées est encourue.**
 
 
 ## II) Sur l'atteinte au droit à l'information et à la liberté publique d'accès aux documents administratifs
@@ -164,7 +164,7 @@ D'autre part, en ne définissant pas de manière précise de «\ catégories d'a
 Tout d'abord, il y a lieu de rappeler que l'article 15 de la Déclaration des droits de l'homme et du citoyen de 1789 garantit que\ :
 
 > **Article 15**
->
+> 
 > «\ La Société a le droit de demander compte à tout Agent public de son administration\ ».
 
 La loi n°78-753 du 17\ juillet\ 1978 portant diverses mesures d’amélioration des relations entre l’administration et le public et diverses dispositions d’ordre administratif, social et fiscal, codifiée dans le code des relations entre le public et l'administration a concrétisé ce principe en reconnaissant un droit d’accès aux documents administratifs.
@@ -172,7 +172,7 @@ La loi n°78-753 du 17\ juillet\ 1978 portant diverses mesures d’amélioration
 Ainsi, aux termes des dispositions de l'article L.\ 300-1\ :
 
 > **Article L.\ 300-1**
->
+> 
 > «\ Le droit de toute personne à l'information est précisé et garanti par les dispositions des titres\ Ier, III et IV du présent livre en ce qui concerne la liberté d'accès aux documents administratifs\ ».
 
 Le Conseil constitutionnel a, dans sa décision [n°\ 2014-5\ LOM du 23\ octobre\ 2014](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2014/2014-5-lom/decision-n-2014-5-lom-du-23-octobre-2014.142541.html) et notamment en son considérant 4, estimé que\ :
@@ -188,7 +188,7 @@ Les dispositions de l'article\ 15 de la Déclaration des droits doivent donc s'e
 Par ailleurs, l’[article 34 de la Constitution](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=LEGIARTI000019241018&cidTexte=LEGITEXT000006071194&), prévoit notamment que\ :
 
 > **Article 34**
->
+> 
 > «\ La loi fixe les règles concernant\ : les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques ; la liberté, le pluralisme et l'indépendance des médias\ ».
 
 Autrement dit, la Constitution prévoit que seule la loi peut définir les conditions dans lesquelles les citoyens peuvent jouir des libertés publiques.
@@ -206,7 +206,7 @@ Dans son [avis n°\ 390278 du 23\ juillet\ 2015](http://www.conseil-etat.fr/Deci
 C'est le sens du principe de libre réutilisation consacré par le législateur à l'[article L.\ 321-1](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000031366350&idArticle=LEGIARTI000032255214) qui prévoit, en son premier alinéa\ :
 
 > **Article L.\ 321-1**
->
+> 
 > «\ Les informations publiques figurant dans des documents communiqués ou publiés par les administrations mentionnées au premier alinéa de l'article L.\ 300-2 peuvent être utilisées par toute personne qui le souhaite à d'autres fins que celles de la mission de service public pour les besoins de laquelle les documents ont été produits ou reçus\ ».
 
 Ainsi, le droit de réutilisation des informations publiques ne constitue qu'une composante du droit à l'information des individus.
@@ -217,7 +217,7 @@ Dans le même sens, la [directive 2013/37/UE](http://eur-lex.europa.eu/legal-con
 
 À cet égard, la réutilisation permet une meilleure circulation et compréhension de l'information qui a pour effet direct de renforcer la liberté publique d'accès aux documents administratifs consacrée par le Conseil constitutionnel.
 
-À titre subsidiaire, l'introduction d'une modalité d'accès au format numérique d'un document administratif, prévue par les dispositions de l'[article 6 de l'ordonnance n°\ 2005-650 du 6\ juin\ 2005 relative à la liberté d'accès aux documents administratifs et à la réutilisation des informations publiques](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001724707&cidTexte=JORFTEXT000000629684) codifiées à l'article L.\ 311-9 semble préfigurer la réutilisation des informations publiques concernées.
+À titre subsidiaire, l'introduction d'une modalité d'accès au format numérique d'un document administratif, prévue par les dispositions de l'[article 6 de l'ordonnance n°\ 2005-650 du 6\ juin\ 2005 relative à la liberté d'accès aux documents administratifs et à la réutilisation des informations publiques](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000001724707&cidTexte=JORFTEXT000000629684) codifiées à l'article L.\ 311-9 préfigure la réutilisation des informations publiques concernées.
 
 En conséquence, l'établissement d'une redevance de réutilisation affecte de manière directe et irrémédiable l'exercice d'une liberté publique garantie par la Constitution. Une telle atteinte ne saurait être regardée comme justifiée en l'absence d'un motif d'intérêt général et d'une mis en oeuvre de manière adéquate et proportionnée à cet objectif.
 

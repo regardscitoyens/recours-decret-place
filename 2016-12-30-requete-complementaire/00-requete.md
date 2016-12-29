@@ -142,7 +142,7 @@ Or, faute de publicité des documents fournis par le gouvernement et par ces deu
 **De ce chef également, l'annulation du décret litigieux est acquise.**
 
 
-## C. Respect des règles de fonctionnement des organismes consultés
+## C. Respect des règles de fonctionnement du COEPIA
 
 En second lieu, le décret a été adopté au terme d'une procédure irrégulière, dès lors que le conseil d'orientation de l'édition publique et de l'information administrative (COEPIA) n'a pas un fonctionnement conforme aux règles le régissant.
 
@@ -151,32 +151,29 @@ En effet, selon les disposition des articles L.\ 324-4 et R.\ 324-7 du code des 
 En l'espèce, il ne fait aucun doute que le décret attaqué a bien fait l'objet d'un avis du COEPIA. En effet, parmi les visas de ce décret figure explicitement la mention suivante\ : «\ Vu l'avis du conseil d'orientation de l'édition publique et de l'information administrative en date du 24\ juin\ 2016\ ».
 
 
-### 1. Présence de M. Renaud LEFEBVRE dans la formation spécialisée du COEPIA
+### 1. Présence de M. Renaud Lefebvre dans la formation spécialisée du COEPIA
 
 Le décret n°\ 2015-464 du 23\ avril\ 2015 portant renouvellement du conseil d'orientation de l'édition publique et de l'information administrative fait du COEPIA une commission administrative à caractère consultatif. Son fonctionnement, notamment lorsqu'il délibère à propos d'un avis, est donc régi par le chapitre\ III du titre\ III du livre\ Ier du code des relations entre le public et l'administration.
 
 Ces règles incluent notamment l'article R.\ 133-12 qui prévoit l'interdiction pour les membres d'une commission de «\ prendre part aux délibérations lorsqu'ils ont un intérêt personnel à l'affaire qui en est l'objet\ ».
 
-Afin de s'assurer du respect de ces règles, l'association requérante a procédé à une demande d'accès à des documents administratifs auprès du COEPIA. Dans sa réponse à cette demande, le COEPIA a notamment transmis son avis sur le décret attaqué. Aux annexes de cet avis (production n°\ 4), figure «\ la liste des personnes ayant siégé à la réunion de la formation spécialisée\ ». Parmi les personnes ayant siégé à la réunion figure notamment le nom de «\ M.\ Renaud Lefebre, Gérant des Éditions Francis Lefebvre\ ».
+Afin de s'assurer du respect de ces règles, l'association requérante a procédé à une demande d'accès à des documents administratifs auprès du COEPIA. Dans sa réponse à cette demande, le COEPIA a notamment transmis son avis sur le décret attaqué. Aux annexes de cet avis (production n°\ 4), figure «\ la liste des personnes ayant siégé à la réunion de la formation spécialisée\ ». Parmi les personnes ayant siégé à la réunion figure notamment le nom de «\ M.\ Renaud Lefebvre, Gérant des Éditions Francis Lefebvre\ ».
 
-Monsieur Renaud LEFEBVRE est président de la société Indicator, dont la dénomination enregistrée au tribunal de commerce de Nanterre sous le n°\ 414\ 740\ 852 est «\ SOCIETE DES EDITIONS FRANCIS LEFEBVRE\ ».
+Monsieur Renaud Lefebvre est président de la société Indicator, dont la dénomination enregistrée au tribunal de commerce de Nanterre sous le n°\ 414\ 740\ 852 est «\ SOCIETE DES EDITIONS FRANCIS LEFEBVRE\ ».
 
-<!-- /!\ est-ce qu'on sait s'il est actionnaire majoritaire? si oui ce serait utile de le préciser je pense pour bien pointer l'intérêt personnel et pas juste structurel vu qu'en soit il est là au titre de sa position dans la branche comme Christian pour OSM impossible à savoir la boite est détenue par deux entreprises Frojal (détenue partiellement par "SPIL", la holding familiale de la famille Lefebvre) et Lefebvre Sarut (boite elle même détenue partiellement par Frojal) du coup il faudrait ptet préciser dans le texte en quoi le président a un intéret perso. Christian est prez d'OSM...-->
+La société «\ Éditions Francis Lefebvre\ », achète, directement ou par l'intermiédiaire de ses filiales, des données publiques de manière régulière à la Direction de l'Information Légale et Administrative, notamment les bases de données JURICA contenant les décisions civiles des cours d'appel, qu'elle revend ensuite sous forme d'abonnements à ses clients.
 
-La société Éditions Francis Lefebvre, qui possède la société Indicator, achète des données publiques de manière régulière à la Direction de l'Information Légale et Administrative, notamment les bases de données JURICA contenant les décisions civiles des cours d'appel, qu'elle revend ensuite sous forme d'abonnements à ses clients.
-
-La société Indicator a réalisé en 2015 un chiffre d'affaires de 102\ 795\ 100\ € essentiellement dans le domaine de l'édition juridique, activité qui repose sur la publication et la commercialisation des données publiques législatives et de jurisprudence.
+La société «\ Éditions Francis Lefebvre\ » a réalisé en 2015 un chiffre d'affaires de 102\ 795\ 100\ € essentiellement dans le domaine de l'édition juridique, activité qui repose sur la publication et la commercialisation des données publiques législatives et de jurisprudence.
 
 Le décret étudié visait non seulement la capacité pour certaines administrations de revendre des données, administrations dont certaines sont fournisseurs de la société Indicator, mais portait également, au II. de l'article\ 3,  sur les conditions de fonctionnement de la Direction de l'Information Légale et Administrative (DILA), administration en charge de la base JURICA.
 
-Il ne fait donc aucun doute que M. Renaud LEFEBVRE avait, en tant que président d'une entreprise cliente depuis de nombreuses années de la DILA, et acheteuse de données publiques, un intérêt à l'affaire qui était étudiée par le COEPIA.
+Il ne fait donc aucun doute que M. Renaud Lefebvre avait, en tant que président d'une entreprise cliente depuis de nombreuses années de la DILA, et acheteuse de données publiques, un intérêt à l'affaire qui était étudiée par le COEPIA.
 
 En l'espèce, l'avis du COEPIA ne peut donc être considéré valide au regard des règles édictées en matière de lutte contre les conflits d'intérêts et de déport prévues à l'article R.\ 133-12 du code des relations entre le public et l'administration.
 
 Le décret litigieux ne peut donc être considéré comme ayant été pris conformément aux dispositions des articles L.\ 324-4 et R.\ 324-7 du code des relations entre le public et l'administration.
 
 **De ce chef, l'annulation du décret litigieux est également acquise.**
-
 
 ### 2. Réunion de la formation spécialisée du COEPIA à la DILA
 
