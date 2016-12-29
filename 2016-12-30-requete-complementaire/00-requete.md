@@ -161,7 +161,7 @@ Afin de s'assurer du respect de ces règles, l'association requérante a procéd
 
 Monsieur Renaud Lefebvre est président de la société Indicator, dont la dénomination enregistrée au tribunal de commerce de Nanterre sous le n°\ 414\ 740\ 852 est «\ SOCIETE DES EDITIONS FRANCIS LEFEBVRE\ ».
 
-La société «\ Éditions Francis Lefebvre\ », achète, directement ou par l'intermiédiaire de ses filiales, des données publiques de manière régulière à la Direction de l'Information Légale et Administrative, notamment les bases de données JURICA contenant les décisions civiles des cours d'appel, qu'elle revend ensuite sous forme d'abonnements à ses clients.
+La société «\ Éditions Francis Lefebvre\ », achète, directement ou par l'intermédiaire de ses filiales, des données publiques de manière régulière à la Direction de l'Information Légale et Administrative, notamment les bases de données JURICA contenant les décisions civiles des cours d'appel, qu'elle revend ensuite sous forme d'abonnements à ses clients.
 
 La société «\ Éditions Francis Lefebvre\ » a réalisé en 2015 un chiffre d'affaires de 102\ 795\ 100\ € essentiellement dans le domaine de l'édition juridique, activité qui repose sur la publication et la commercialisation des données publiques législatives et de jurisprudence.
 
