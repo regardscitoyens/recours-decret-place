@@ -113,7 +113,7 @@ Le Conseil constitutionnel a précisé, dans sa [décision n°\ 82-124\ L. du 23
 
 Il ressort de ces décisions que le législateur a une compétence exclusive, en vertu de l'article\ 34 de la Constitution, pour déterminer les conditions de financement des dépenses liées à l'exécution d'une mission de service public, en tant qu'imposition de toute nature.
 
-**En l'espèce**, l'alinéa 2 de l'[article\ 5 de la loi n°2015-1779 du 28\ décembre\ 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101), codifié à l'[article L.\ 324-1 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219051&cidTexte=LEGITEXT000031366350&dateTexte=20161213), prévoit notamment que\ :
+En l'espèce, l'alinéa 2 de l'[article\ 5 de la loi n°2015-1779 du 28\ décembre\ 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101), codifié à l'[article L.\ 324-1 du code des relations entre le public et l'administration](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219051&cidTexte=LEGITEXT000031366350&dateTexte=20161213), prévoit notamment que\ :
 
 > «\ […] les administrations mentionnées à l'article\ 1er peuvent établir une redevance de réutilisation lorsqu'elles sont tenues de couvrir par des recettes propres une part substantielle des coûts liés à l'accomplissement de leurs missions de service public\ ».
 
@@ -136,7 +136,7 @@ Surtout, dans cette même décision, le juge constitutionnel précise que\ :
 
 Ce qui implique qu’il ne peut, sauf à méconnaître sa compétence, déléguer au pouvoir réglementaire ni la détermination du champ d’application des règles qu’il pose pour l’exercice des libertés publiques, ni la fixation de garanties propres à protéger ces dernières.
 
-**En l'espèce,** le septième alinéa de l'[article 5 de la loi n°\ 2015-1779 du 28\ décembre\ 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101), codifié à l'article [L.\ 324-4](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219078&cidTexte=LEGITEXT000031366350&dateTexte=20161213) renvoie au pouvoir réglementaire le soin de définir les montants et les modalités de fixation de ces redevances.
+En l'espèce, le septième alinéa de l'[article 5 de la loi n°\ 2015-1779 du 28\ décembre\ 2015 relative à la gratuité et aux modalités de la réutilisation des informations du secteur public](https://www.legifrance.gouv.fr/affichTexteArticle.do?idArticle=JORFARTI000031701538&cidTexte=JORFTEXT000031701525&dateTexte=29990101), codifié à l'article [L.\ 324-4](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033219078&cidTexte=LEGITEXT000031366350&dateTexte=20161213) renvoie au pouvoir réglementaire le soin de définir les montants et les modalités de fixation de ces redevances.
 
 Cet article dispose en effet que\ :
 
