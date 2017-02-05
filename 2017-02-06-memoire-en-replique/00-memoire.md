@@ -126,4 +126,4 @@ Le Conseil d'Administration.
 
 # Pièces produites
 
-1. PV du Conseil d'administration de l'association Regards Citoyens en date du 4 février 2017.
+1. PV du Conseil d'administration de l'association Regards Citoyens en date du 3 février 2017.
