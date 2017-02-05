@@ -5,7 +5,7 @@
 \ \linebreak[4]
 \ \linebreak[4]
 
-En vue de l’audience publique du 7 février 2017 à 9h30.
+En réplique au mémoire en réponse produit par le Premier ministre, et en vue de l’audience publique du 7 février 2017 à 9h30.
 
 \ \linebreak[4]
 \ \linebreak[4]
@@ -92,6 +92,8 @@ On ne peut donc affirmer, comme le fait le défenseur, que la requérante se bor
 De même, la requérante ne se borne pas à invoquer la méconnaissance d’un objectif à valeur constitutionnelle. Elle démontre au contraire que l’atteinte à cet objectif est fondé sur la méconnaissance par les dispositions législatives de plusieurs libertés et droits garantis par la Constitution pour laquelle le Conseil constitutionnel a déjà pu censurer le législateur (considérant\ 11 de la [décision n°\ 2012-285 QPC du 30\ novembre\ 2012](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2012/2012-285-qpc/decision-n-2012-285-qpc-du-30-novembre-2012.135250.html)).
 
 Par ailleurs, le Premier ministre rappelle dans son mémoire le principe selon lequel le Conseil d'État identifie deux élements pour qualifier une redevance pour services rendus\ : 
+
+\newpage
 
  - d'une part, être demandée à des usagers en vue de couvrir les charges d'un service public\ ;
  - d'autre part, trouver sa contrepartie directe dans les prestations fournies par le service.
