@@ -245,3 +245,23 @@ De sorte qu’elle ne pourra qu’être transmise au Conseil constitutionnel.
 - <span style="font-variant:small-caps;">Transmettre</span> au Conseil constitutionnel la question prioritaire de constitutionnalité relative à la conformité des dispositions des articles L.\ 324-1, L.\ 324-2, L.\ 324-4 et L.\ 324-5 du code des relations du public avec l’administration au regard des principes de séparation des pouvoirs, d'intelligibilité et d'accessibilité de la loi, d'égalité devant la loi et devant les charges publiques, de droit à l'information des individus tels que résultant des articles 1er et 34 de la Constitution et des articles 1er, 4, 5, 6, 13 et 15 de la Déclaration des droits de l'homme et du citoyen.
 
 Avec toutes conséquences de droit.
+
+\ \linebreak[4]
+\ \linebreak[4]
+\ \linebreak[4]
+
+Le 28 décembre 2016, à Paris.
+
+Pour l'association **Regards Citoyens**,
+
+Le Conseil d'Administration.
+
+\ \linebreak[4]
+
+Nicolas JOYARD, administrateur\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-njoyard.png)
+
+Tangui MORLIER, administrateur\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-teymour.png)
+
+Benjamin OOGHE-TABANOU, administrateur\ \ \ \ \ \ \ \  ![](images/signature-roux.png)
+
+

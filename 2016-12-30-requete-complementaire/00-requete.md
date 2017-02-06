@@ -314,8 +314,13 @@ Pour l'association **Regards Citoyens**,
 
 Le Conseil d'Administration.
 
-\newpage
+Nicolas JOYARD, administrateur\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-njoyard.png)
 
+Tangui MORLIER, administrateur\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-teymour.png)
+
+Benjamin OOGHE-TABANOU, administrateur\ \ \ \ \ \ \ \  ![](images/signature-roux.png)
+
+\newpage
 
 # Pièces produites
 
