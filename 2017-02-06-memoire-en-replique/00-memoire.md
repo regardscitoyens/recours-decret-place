@@ -125,9 +125,9 @@ Le Conseil d'Administration.
 
 \newpage
 
-Nicolas JOYARD, administrateur\ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-njoyard.png)
+Nicolas JOYARD, administrateur\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-njoyard.png)
 
-Tangui MORLIER, administrateur\ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-teymour.png)
+Tangui MORLIER, administrateur\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \  ![](images/signature-teymour.png)
 
 Benjamin OOGHE-TABANOU, administrateur\ \ \ \ \ \ \ \  ![](images/signature-roux.png)
 
